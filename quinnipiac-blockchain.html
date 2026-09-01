@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quinnipiac Blockchain</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#12142B;
+    --ink-line:#2A2D4C;
+    --paper:#F1F2EE;
+    --paper-line:#D9D9D2;
+    --gold:#D9A62E;
+    --teal:#2F8F82;
+    --text-on-ink:#DEDFEC;
+    --text-on-ink-soft:#9294B3;
+    --text-on-paper:#181A2E;
+    --text-on-paper-soft:#5B5D6E;
+    --serif: 'IBM Plex Serif', serif;
+    --sans: 'IBM Plex Sans', sans-serif;
+    --mono: 'IBM Plex Mono', monospace;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    font-family:var(--sans);
+    background:var(--paper);
+    color:var(--text-on-paper);
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;}
+  .wrap{
+    max-width:920px;
+    margin:0 auto;
+    padding:0 28px;
+  }
+  .measure{
+    max-width:640px;
+  }
+
+  /* ---------- Header ---------- */
+  header{
+    position:sticky; top:0; z-index:20;
+    background:rgba(18,20,43,0.92);
+    backdrop-filter:blur(6px);
+    border-bottom:1px solid var(--ink-line);
+  }
+  .header-row{
+    display:flex; align-items:center; justify-content:space-between;
+    padding:16px 28px;
+    max-width:920px; margin:0 auto;
+  }
+  .logotype{
+    font-family:var(--serif);
+    font-size:1.05rem;
+    color:var(--text-on-ink);
+    text-decoration:none;
+    display:flex; align-items:baseline; gap:8px;
+  }
+  .logotype .dot{
+    color:var(--gold);
+    font-family:var(--mono);
+  }
+  nav{display:flex; gap:26px;}
+  nav a{
+    font-family:var(--mono);
+    font-size:0.78rem;
+    color:var(--text-on-ink-soft);
+    text-decoration:none;
+    letter-spacing:0.02em;
+  }
+  nav a:hover{color:var(--gold);}
+
+  /* ---------- Hero ---------- */
+  .hero{
+    background:var(--ink);
+    color:var(--text-on-ink);
+    padding:90px 0 70px;
+    border-bottom:1px solid var(--ink-line);
+  }
+  .hero h1{
+    font-family:var(--serif);
+    font-weight:500;
+    font-size:clamp(2.1rem, 4.4vw, 3.4rem);
+    line-height:1.18;
+    letter-spacing:-0.01em;
+    margin:0 0 22px;
+    max-width:15ch;
+  }
+  .hero p.lede{
+    font-size:1.08rem;
+    line-height:1.65;
+    color:var(--text-on-ink-soft);
+    max-width:52ch;
+    margin:0 0 36px;
+  }
+  .cta-row{display:flex; gap:16px; flex-wrap:wrap; margin-bottom:64px;}
+  .btn{
+    font-family:var(--sans);
+    font-size:0.92rem;
+    font-weight:500;
+    padding:12px 22px;
+    text-decoration:none;
+    display:inline-block;
+    border:1px solid transparent;
+  }
+  .btn-primary{background:var(--gold); color:var(--ink);}
+  .btn-primary:hover{background:#c99623;}
+  .btn-ghost{border-color:var(--ink-line); color:var(--text-on-ink);}
+  .btn-ghost:hover{border-color:var(--teal); color:var(--teal);}
+
+  /* chain diagram */
+  .chain{width:100%; overflow:visible;}
+  .chain-caption{
+    font-family:var(--mono);
+    font-size:0.7rem;
+    color:var(--text-on-ink-soft);
+    margin-top:14px;
+    display:flex;
+    justify-content:space-between;
+    max-width:100%;
+  }
+  .chain-path{
+    stroke:var(--ink-line);
+    stroke-width:2;
+    fill:none;
+  }
+  .chain-path-draw{
+    stroke:var(--teal);
+    stroke-width:2;
+    fill:none;
+    stroke-dasharray:900;
+    stroke-dashoffset:900;
+    animation:draw 1.8s ease-out 0.2s forwards;
+  }
+  @keyframes draw{ to{ stroke-dashoffset:0; } }
+  .chain-node{ fill:var(--ink); stroke:var(--gold); stroke-width:2; }
+  .chain-node.filled{ fill:var(--gold); stroke:var(--gold); }
+  .chain-label{
+    font-family:var(--mono);
+    font-size:11px;
+    fill:var(--text-on-ink-soft);
+  }
+  @media (prefers-reduced-motion: reduce){
+    .chain-path-draw{ animation:none; stroke-dashoffset:0; }
+  }
+
+  /* ---------- Block sections ---------- */
+  .block{
+    padding:64px 0;
+    border-bottom:1px solid var(--paper-line);
+  }
+  .block.on-ink{
+    background:var(--ink);
+    color:var(--text-on-ink);
+    border-bottom:1px solid var(--ink-line);
+  }
+  .block-meta{
+    display:flex; align-items:baseline; gap:14px;
+    font-family:var(--mono);
+    font-size:0.76rem;
+    color:var(--text-on-paper-soft);
+    margin-bottom:22px;
+  }
+  .on-ink .block-meta{ color:var(--text-on-ink-soft); }
+  .block-meta .num{ color:var(--gold); }
+  .block h2{
+    font-family:var(--serif);
+    font-weight:500;
+    font-size:1.7rem;
+    margin:0 0 26px;
+    max-width:20ch;
+  }
+  .block p{
+    line-height:1.75;
+    font-size:1rem;
+    color:var(--text-on-paper-soft);
+    margin:0 0 18px;
+  }
+  .on-ink p{ color:var(--text-on-ink-soft); }
+  .signoff{
+    margin-top:30px;
+    font-family:var(--serif);
+    font-style:italic;
+    color:var(--text-on-paper);
+  }
+
+  /* ledger list (newsletter contents) */
+  .ledger-list{ list-style:none; margin:0; padding:0; }
+  .ledger-list li{
+    display:flex; gap:20px;
+    padding:16px 0;
+    border-top:1px solid var(--paper-line);
+    align-items:baseline;
+  }
+  .ledger-list li:last-child{ border-bottom:1px solid var(--paper-line); }
+  .ledger-list .idx{
+    font-family:var(--mono);
+    font-size:0.85rem;
+    color:var(--gold);
+    flex:0 0 32px;
+  }
+  .ledger-list .txt{ line-height:1.5; }
+
+  /* podcast callout */
+  .callout{
+    border-left:3px solid var(--teal);
+    padding:6px 0 6px 24px;
+    margin-top:8px;
+  }
+  .callout .tag{
+    font-family:var(--mono);
+    font-size:0.72rem;
+    color:var(--teal);
+    display:block;
+    margin-bottom:10px;
+  }
+
+  /* values */
+  .values-list{ margin-top:8px; }
+  .value-row{
+    display:grid;
+    grid-template-columns:120px 1fr;
+    gap:24px;
+    padding:20px 0;
+    border-top:1px solid var(--ink-line);
+  }
+  .value-row:last-child{ border-bottom:1px solid var(--ink-line); }
+  .value-row .term{
+    font-family:var(--serif);
+    font-size:1.05rem;
+    color:var(--gold);
+  }
+  .value-row .def{
+    color:var(--text-on-ink-soft);
+    line-height:1.65;
+    max-width:55ch;
+  }
+
+  /* topic pillars */
+  .pillars{ margin-top:8px; }
+  .pillar{
+    padding:24px 0;
+    border-top:1px solid var(--paper-line);
+  }
+  .pillar:last-child{ border-bottom:1px solid var(--paper-line); }
+  .pillar-head{
+    display:flex; justify-content:space-between; align-items:baseline; gap:16px;
+    margin-bottom:8px;
+  }
+  .pillar-head h3{
+    font-family:var(--serif);
+    font-weight:500;
+    font-size:1.15rem;
+    margin:0;
+  }
+  .pillar-head a{
+    font-family:var(--mono);
+    font-size:0.75rem;
+    color:var(--teal);
+    text-decoration:none;
+    white-space:nowrap;
+  }
+  .pillar-head a:hover{ text-decoration:underline; }
+  .pillar p{ margin:0; }
+
+  /* ---------- Footer / join ---------- */
+  footer{
+    background:var(--ink);
+    color:var(--text-on-ink-soft);
+    padding:70px 0 40px;
+  }
+  footer h2{
+    font-family:var(--serif);
+    font-weight:500;
+    color:var(--text-on-ink);
+    font-size:1.9rem;
+    margin:0 0 18px;
+    max-width:18ch;
+  }
+  .footer-row{
+    display:flex; justify-content:space-between; align-items:flex-end;
+    flex-wrap:wrap; gap:30px;
+    padding-bottom:40px;
+    border-bottom:1px solid var(--ink-line);
+    margin-bottom:24px;
+  }
+  .footer-bottom{
+    display:flex; justify-content:space-between; flex-wrap:wrap; gap:12px;
+    font-family:var(--mono);
+    font-size:0.72rem;
+  }
+  .footer-bottom a{ text-decoration:none; color:var(--teal); }
+  .disclaimer{
+    max-width:640px;
+    font-size:0.78rem;
+    line-height:1.6;
+    color:#6C6E8C;
+    margin-top:24px;
+  }
+
+  @media (max-width: 620px){
+    .value-row{ grid-template-columns:1fr; gap:6px; }
+    .header-row{ padding:14px 20px; }
+    nav{ gap:16px; }
+    .chain-caption span{ font-size:0.62rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-row">
+    <a class="logotype" href="#top">Quinnipiac Blockchain<span class="dot">.</span></a>
+    <nav>
+      <a href="#genesis">Letter</a>
+      <a href="#contents">Newsletter</a>
+      <a href="#podcast">Podcast</a>
+      <a href="#values">Values</a>
+      <a href="#topics">Read</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero" id="top">
+  <div class="wrap">
+    <h1>A running ledger for everyone learning blockchain at Quinnipiac.</h1>
+    <p class="lede">Quinnipiac Blockchain is a student community building education, resources, and industry connections around blockchain technology — one newsletter entry at a time.</p>
+    <div class="cta-row">
+      <a class="btn btn-primary" href="#genesis">Read the newsletter</a>
+      <a class="btn btn-ghost" href="https://blockchainqu.blog/" target="_blank" rel="noopener">Visit the blog ↗</a>
+    </div>
+
+    <svg class="chain" viewBox="0 0 864 90" preserveAspectRatio="none">
+      <path class="chain-path" d="M 30 45 L 834 45"></path>
+      <path class="chain-path-draw" d="M 30 45 L 834 45"></path>
+      <circle class="chain-node filled" cx="30" cy="45" r="7"></circle>
+      <circle class="chain-node" cx="232" cy="45" r="7"></circle>
+      <circle class="chain-node" cx="434" cy="45" r="7"></circle>
+      <circle class="chain-node" cx="636" cy="45" r="7"></circle>
+      <circle class="chain-node" cx="834" cy="45" r="7"></circle>
+      <text class="chain-label" x="30" y="72" text-anchor="middle">000001</text>
+      <text class="chain-label" x="232" y="72" text-anchor="middle">000002</text>
+      <text class="chain-label" x="434" y="72" text-anchor="middle">000003</text>
+      <text class="chain-label" x="636" y="72" text-anchor="middle">000004</text>
+      <text class="chain-label" x="834" y="72" text-anchor="middle">000005</text>
+    </svg>
+    <div class="chain-caption">
+      <span>Genesis letter</span>
+      <span>Contents</span>
+      <span>Podcast</span>
+      <span>Values</span>
+      <span>Read &amp; join</span>
+    </div>
+  </div>
+</section>
+
+<!-- BLOCK 000001 — Welcome letter -->
+<section class="block" id="genesis">
+  <div class="wrap measure">
+    <div class="block-meta"><span class="num">000001</span><span>Genesis · Spring Semester</span></div>
+    <h2>Dear Quinnipiac Blockchain Community,</h2>
+    <p>Welcome to the Quinnipiac Blockchain Newsletter! As we embark on this journey together, I want to take a moment to share the purpose behind this initiative, our club's vision, and how we plan to foster meaningful discussions on blockchain technology within our community.</p>
+    <p>At Quinnipiac Blockchain, we are more than just a student organization — we are a collective of innovators, problem-solvers, and forward-thinkers. Our mission is to build a vibrant blockchain ecosystem at Quinnipiac University by providing education, resources, and opportunities to explore this transformative technology. Whether you're a seasoned blockchain enthusiast or just starting to learn about the space, we aim to create a welcoming environment where anyone can engage, learn, and grow.</p>
+    <p>Blockchain is not just about cryptocurrency — it is a revolutionary technology with the potential to reshape industries worldwide. From finance and healthcare to supply chains and digital identity, blockchain is designed to drive transparency, security, and efficiency in ways never before imagined. It is our vision to inspire the next generation of blockchain leaders by equipping our community with the knowledge, skills, and industry connections necessary to make a real impact in this evolving space.</p>
+    <p>This is just the beginning of an exciting journey. We encourage you to get involved, ask questions, and explore the possibilities of blockchain technology with us. Welcome to the future of blockchain at Quinnipiac!</p>
+    <p class="signoff">— Marcus Opperman '27, President, Quinnipiac Blockchain</p>
+  </div>
+</section>
+
+<!-- BLOCK 000002 — Contents -->
+<section class="block" id="contents">
+  <div class="wrap measure">
+    <div class="block-meta"><span class="num">000002</span><span>What's in this newsletter</span></div>
+    <h2>Every issue carries four kinds of entries.</h2>
+    <ul class="ledger-list">
+      <li><span class="idx">01</span><span class="txt">The latest blockchain news and trends</span></li>
+      <li><span class="idx">02</span><span class="txt">Educational insights on blockchain concepts and real-world applications</span></li>
+      <li><span class="idx">03</span><span class="txt">Updates on our club's events, workshops, and guest speakers</span></li>
+      <li><span class="idx">04</span><span class="txt">Spotlights on student projects and innovations</span></li>
+    </ul>
+  </div>
+</section>
+
+<!-- BLOCK 000003 — Podcast -->
+<section class="block" id="podcast">
+  <div class="wrap measure">
+    <div class="block-meta"><span class="num">000003</span><span>In development</span></div>
+    <h2>A podcast is coming.</h2>
+    <div class="callout">
+      <span class="tag">Stay tuned</span>
+      <p>Our podcast is currently in development. It will dive deeper into blockchain concepts, industry trends, and cryptocurrency news, with interviews featuring the people shaping the future of blockchain.</p>
+      <p>Interested in contributing or suggesting a topic? We'd love to hear from you — reach out through the club or the blog.</p>
+    </div>
+  </div>
+</section>
+
+<!-- BLOCK 000004 — Values -->
+<section class="block on-ink" id="values">
+  <div class="wrap measure">
+    <div class="block-meta"><span class="num">000004</span><span>What we build on</span></div>
+    <h2>Four values run through everything we do.</h2>
+    <div class="values-list">
+      <div class="value-row"><span class="term">Collaboration</span><span class="def">Working alongside each other and with industry partners, not in isolation.</span></div>
+      <div class="value-row"><span class="term">Transparency</span><span class="def">The same principle blockchain is built on, applied to how we run the club.</span></div>
+      <div class="value-row"><span class="term">Innovation</span><span class="def">Treating blockchain as a tool for solving real problems, not just a talking point.</span></div>
+      <div class="value-row"><span class="term">Inclusivity</span><span class="def">A space for beginners and seasoned builders alike to engage, learn, and grow.</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- BLOCK 000005 — Topics / read -->
+<section class="block" id="topics">
+  <div class="wrap measure">
+    <div class="block-meta"><span class="num">000005</span><span>Read the blog</span></div>
+    <h2>Browse the newsletter by topic.</h2>
+    <div class="pillars">
+      <div class="pillar">
+        <div class="pillar-head">
+          <h3>Blockchain news &amp; trends</h3>
+          <a href="https://blockchainqu.blog/" target="_blank" rel="noopener">Read the posts</a>
+        </div>
+        <p>What's moving in the space right now, explained for a student audience.</p>
+      </div>
+      <div class="pillar">
+        <div class="pillar-head">
+          <h3>Educational insights</h3>
+          <a href="https://blockchainqu.blog/" target="_blank" rel="noopener">Read the posts</a>
+        </div>
+        <p>Core blockchain concepts and how they show up in real-world applications.</p>
+      </div>
+      <div class="pillar">
+        <div class="pillar-head">
+          <h3>Club spotlights &amp; events</h3>
+          <a href="https://blockchainqu.blog/" target="_blank" rel="noopener">Read the posts</a>
+        </div>
+        <p>Workshops, guest speakers, and student projects worth knowing about.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="footer-row">
+      <div>
+        <h2>There's a place for you in this ledger.</h2>
+        <p style="color:var(--text-on-ink-soft); max-width:46ch; line-height:1.6; margin:0;">Attend events, contribute to the podcast, or just stay informed — join Quinnipiac Blockchain.</p>
+      </div>
+      <a class="btn btn-primary" href="https://blockchainqu.blog/" target="_blank" rel="noopener">Get involved</a>
+    </div>
+    <div class="footer-bottom">
+      <span>Quinnipiac Blockchain · Spring Semester Newsletter</span>
+      <a href="https://blockchainqu.blog/" target="_blank" rel="noopener">blockchainqu.blog ↗</a>
+    </div>
+    <p class="disclaimer">The content presented in this newsletter is for informational and educational purposes only and does not constitute financial, investment, legal, or tax advice. Any mention of cryptocurrencies or digital assets is purely for illustrative and analytical purposes. Readers should conduct their own research and consult qualified professionals before making financial decisions.</p>
+  </div>
+</footer>
+
+</body>
+</html>
