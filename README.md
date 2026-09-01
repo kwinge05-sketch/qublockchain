@@ -1,2 +1,0 @@
-# qublockchain
-Quinnipiac Blockchain
