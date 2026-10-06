@@ -186,6 +186,20 @@
   #chat-input::placeholder{color:var(--text-on-ink-soft);}
   #chat-send{background:none;border:none;color:var(--gold);font-family:var(--mono);font-size:0.78rem;padding:0 16px;cursor:pointer;}
 
+
+  /* newsletter feed */
+  .news-wrap{max-width:820px;}
+  .news-item{display:grid;grid-template-columns:150px 1fr;gap:22px;padding:20px 0;border-top:1px solid var(--ink-line);}
+  .news-item:last-child{border-bottom:1px solid var(--ink-line);}
+  .news-meta{font-family:var(--mono);font-size:0.74rem;color:var(--text-on-ink-soft);}
+  .news-meta .src{color:var(--gold);display:block;margin-bottom:4px;}
+  .news-item .ttl{font-family:var(--serif);font-size:1.1rem;color:var(--text-on-ink);text-decoration:none;display:block;margin-bottom:6px;line-height:1.35;}
+  .news-item .ttl:hover{color:var(--teal);text-decoration:underline;}
+  .block .news-item p{margin:0;color:var(--text-on-ink-soft);line-height:1.6;font-size:0.93rem;}
+  .block .news-empty{border-top:1px solid var(--ink-line);border-bottom:1px solid var(--ink-line);padding:22px 0;margin:0;color:var(--text-on-ink-soft);line-height:1.6;}
+  .block .news-status{font-family:var(--mono);font-size:0.72rem;color:var(--text-on-ink-soft);margin:18px 0 0;line-height:1.5;}
+  .block .news-note{font-size:0.8rem;color:#6C6E8C;line-height:1.6;margin:26px 0 0;}
+
   /* ============ RESPONSIVE ============ */
   #nav-toggle{display:none;background:none;border:1px solid var(--ink-line);color:var(--text-on-ink);font-family:var(--mono);font-size:0.78rem;padding:8px 14px;min-height:40px;cursor:pointer;}
   #nav-toggle:hover{border-color:var(--gold);color:var(--gold);}
@@ -223,7 +237,7 @@
     header nav a:first-child{border-top:none;}
   }
   @media (max-width:620px){
-    .value-row,.pillar-row,.bench-row,.pipeline li,.li-row{grid-template-columns:1fr;gap:6px;}
+    .value-row,.pillar-row,.bench-row,.pipeline li,.li-row,.news-item{grid-template-columns:1fr;gap:6px;}
     .li-row .go{margin-top:4px;}
     .gallery{grid-template-columns:1fr;gap:26px;}
     .hero h1{max-width:none;}
@@ -262,6 +276,7 @@
       <a href="#linkedin">Community</a>
       <a href="#benchmark">Benchmark</a>
       <a href="#ai">QUBC AI</a>
+      <a href="#newsletter">Newsletter</a>
       <a href="#research">Research</a>
       <a href="#club">Club</a>
     </nav>
@@ -405,10 +420,28 @@
   </div>
 </section>
 
+<!-- Newsletter / auto-updating news -->
+<section class="block on-ink" id="newsletter">
+  <div class="wrap">
+    <div class="block-meta"><span class="num">000005</span><span>Newsletter</span></div>
+    <h2>What mattered in blockchain lately.</h2>
+    <p class="sub">The club newsletter, plus a daily digest pulled from public news feeds. Every headline links to the original source.</p>
+    <div class="news-wrap">
+      <div id="news-list" aria-live="polite"><p class="news-empty">Loading the latest headlines…</p></div>
+      <p class="news-status" id="news-status"></p>
+      <div class="cta-row" style="margin:28px 0 0;">
+        <a class="btn btn-primary" href="https://blockchainqu.blog/" target="_blank" rel="noopener">Read the full newsletter</a>
+        <a class="btn btn-ghost" href="https://www.linkedin.com/company/blockchainqu/posts/?feedView=all" target="_blank" rel="noopener">Follow on LinkedIn</a>
+      </div>
+      <p class="news-note">Headlines are selected automatically and are for education only. Nothing here is financial, investment, legal, or tax advice.</p>
+    </div>
+  </div>
+</section>
+
 <!-- Research + funding -->
 <section class="block" id="research">
   <div class="wrap measure">
-    <div class="block-meta"><span class="num">000005</span><span>Research &amp; funding</span></div>
+    <div class="block-meta"><span class="num">000006</span><span>Research &amp; funding</span></div>
     <h2>Give student research a home — and a path to support.</h2>
     <p class="sub">A visible project pipeline makes research easier to start, fund, and finish.</p>
     <ol class="pipeline">
@@ -435,7 +468,7 @@
 <!-- Club / letter -->
 <section class="block on-ink" id="club">
   <div class="wrap measure">
-    <div class="block-meta"><span class="num">000006</span><span>From the president</span></div>
+    <div class="block-meta"><span class="num">000007</span><span>From the president</span></div>
     <h2>More than a student organization.</h2>
     <p>At Quinnipiac Blockchain, we are a collective of innovators, problem-solvers, and forward-thinkers. Our mission is to build a vibrant blockchain ecosystem at Quinnipiac by providing education, resources, and opportunities to explore this transformative technology — whether you're a seasoned enthusiast or just starting out.</p>
     <p>Blockchain is not just about cryptocurrency. From finance and healthcare to supply chains and digital identity, it is designed to drive transparency, security, and efficiency. Our vision is to equip the next generation of blockchain leaders with the knowledge, skills, and industry connections to make a real impact.</p>
@@ -456,7 +489,7 @@
 <!-- Values -->
 <section class="block" id="values">
   <div class="wrap measure">
-    <div class="block-meta"><span class="num">000007</span><span>What we build on</span></div>
+    <div class="block-meta"><span class="num">000008</span><span>What we build on</span></div>
     <h2>Four values run through everything.</h2>
     <div class="value-row"><span class="term">Collaboration</span><span class="def">Working alongside each other and with industry partners, not in isolation.</span></div>
     <div class="value-row"><span class="term">Transparency</span><span class="def">The principle blockchain is built on, applied to how the club runs.</span></div>
@@ -511,6 +544,8 @@
       quick=document.getElementById('chat-quick'),heroAi=document.getElementById('hero-ai');
 
   var responses=[
+    {keys:['news','headline','latest','newsletter'],
+     a:"The Newsletter section shows recent blockchain headlines, refreshed automatically from public news feeds, with links to the original sources. Full club issues are on the blog at blockchainqu.blog."},
     {keys:['start','new','beginner','101','learn','path'],
      a:"Start with a guided learning path — blockchain fundamentals first, then a hands-on wallet demo. From there you can join a project team or propose research."},
     {keys:['research','publish','paper','study'],
@@ -567,6 +602,31 @@
   t.addEventListener('click',function(){set(!n.classList.contains('open'));});
   n.addEventListener('click',function(e){if(e.target.tagName==='A')set(false);});
   window.addEventListener('resize',function(){if(window.innerWidth>760)set(false);});
+})();
+</script>
+<script>
+(function(){
+  var list=document.getElementById('news-list'),status=document.getElementById('news-status');
+  if(!list)return;
+  function note(msg){list.textContent='';var p=document.createElement('p');p.className='news-empty';p.textContent=msg;list.appendChild(p);}
+  function fmt(iso){var d=new Date(iso);return isNaN(d)?'':d.toLocaleDateString(undefined,{month:'short',day:'numeric'});}
+  fetch('news.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error('http');return r.json();}).then(function(data){
+    var items=(data.items||[]).filter(function(i){return i&&i.title&&/^https?:\/\//i.test(i.link||'');}).slice(0,8);
+    if(!items.length){note('The first digest is on its way. In the meantime, read the full newsletter on the blog.');return;}
+    list.textContent='';
+    items.forEach(function(i){
+      var row=document.createElement('div');row.className='news-item';
+      var meta=document.createElement('div');meta.className='news-meta';
+      var src=document.createElement('span');src.className='src';src.textContent=i.source||'';
+      meta.appendChild(src);meta.appendChild(document.createTextNode(i.published?fmt(i.published):''));
+      var body=document.createElement('div');
+      var a=document.createElement('a');a.className='ttl';a.href=i.link;a.target='_blank';a.rel='noopener noreferrer';a.textContent=i.title;
+      body.appendChild(a);
+      if(i.summary){var p=document.createElement('p');p.textContent=i.summary;body.appendChild(p);}
+      row.appendChild(meta);row.appendChild(body);list.appendChild(row);
+    });
+    if(data.updated&&status){status.textContent='Updated '+fmt(data.updated)+(data.mode==='ai'?' · picked and summarized with Claude':' · picked by keyword filter');}
+  }).catch(function(){note('Headlines are unavailable right now. Read the full newsletter on the blog.');});
 })();
 </script>
 </body>
