@@ -8,6 +8,9 @@
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root{
+    --maxw:920px;
+    --measure:660px;
+    --gutter:clamp(18px,4vw,40px);
     --ink:#12142B;
     --ink-2:#1B1E3D;
     --ink-line:#2A2D4C;
@@ -24,21 +27,23 @@
     --mono:'IBM Plex Mono',monospace;
   }
   *{box-sizing:border-box;}
-  html{scroll-behavior:smooth;}
+  html{scroll-behavior:smooth;scroll-padding-top:72px;-webkit-text-size-adjust:100%;text-size-adjust:100%;}
+  img,svg{max-width:100%;}
   body{margin:0;font-family:var(--sans);background:var(--paper);color:var(--text-on-paper);-webkit-font-smoothing:antialiased;}
   a{color:inherit;}
-  .wrap{max-width:920px;margin:0 auto;padding:0 28px;}
-  .measure{max-width:660px;}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 var(--gutter);}
+  .measure{max-width:var(--maxw);}
+  .measure > *{max-width:var(--measure);}
 
   header{position:sticky;top:0;z-index:20;background:rgba(18,20,43,0.93);backdrop-filter:blur(6px);border-bottom:1px solid var(--ink-line);}
-  .header-row{display:flex;align-items:center;justify-content:space-between;padding:16px 28px;max-width:920px;margin:0 auto;}
+  .header-row{display:flex;align-items:center;justify-content:space-between;padding:16px var(--gutter);max-width:var(--maxw);margin:0 auto;}
   .logotype{font-family:var(--serif);font-size:1.05rem;color:var(--text-on-ink);text-decoration:none;display:flex;align-items:baseline;gap:8px;}
   .logotype .dot{color:var(--gold);font-family:var(--mono);}
   nav{display:flex;gap:24px;}
-  nav a{font-family:var(--mono);font-size:0.78rem;color:var(--text-on-ink-soft);text-decoration:none;}
+  nav a{font-family:var(--mono);font-size:0.78rem;color:var(--text-on-ink-soft);text-decoration:none;padding:6px 0;}
   nav a:hover{color:var(--gold);}
 
-  .hero{background:var(--ink);color:var(--text-on-ink);padding:88px 0 66px;border-bottom:1px solid var(--ink-line);}
+  .hero{background:var(--ink);color:var(--text-on-ink);padding:clamp(56px,9vw,128px) 0 clamp(44px,6vw,90px);border-bottom:1px solid var(--ink-line);}
   .hero h1{font-family:var(--serif);font-weight:500;font-size:clamp(2.1rem,4.6vw,3.5rem);line-height:1.15;letter-spacing:-0.01em;margin:0 0 22px;max-width:14ch;}
   .hero p.lede{font-size:1.08rem;line-height:1.65;color:var(--text-on-ink-soft);max-width:54ch;margin:0 0 34px;}
   .cta-row{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:58px;}
@@ -58,7 +63,7 @@
   .chain-label{font-family:var(--mono);font-size:11px;fill:var(--text-on-ink-soft);}
   @media (prefers-reduced-motion:reduce){.chain-path-draw{animation:none;stroke-dashoffset:0;}}
 
-  .block{padding:64px 0;border-bottom:1px solid var(--paper-line);}
+  .block{padding:clamp(48px,7vw,104px) 0;border-bottom:1px solid var(--paper-line);}
   .block.on-ink{background:var(--ink);color:var(--text-on-ink);border-bottom:1px solid var(--ink-line);}
   .block-meta{display:flex;align-items:baseline;gap:14px;font-family:var(--mono);font-size:0.76rem;color:var(--text-on-paper-soft);margin-bottom:20px;}
   .on-ink .block-meta{color:var(--text-on-ink-soft);}
@@ -143,11 +148,10 @@
   .gallery{display:grid;grid-template-columns:1fr 1fr;gap:22px;}
   .shot{margin:0;}
   .shot a{display:block;}
-  .shot img{width:100%;height:320px;object-fit:cover;object-position:center 30%;display:block;background:var(--ink);image-rendering:auto;}
+  .shot img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;object-position:center 30%;display:block;background:var(--ink);}
   .shot figcaption{padding:12px 0 0;border-top:3px solid var(--gold);margin-top:-3px;}
   .shot .cap-t{display:block;font-family:var(--serif);font-size:1rem;color:var(--text-on-paper);margin-top:12px;}
   .shot .cap-d{display:block;font-size:0.85rem;color:var(--text-on-paper-soft);line-height:1.5;margin-top:3px;}
-  @media (max-width:620px){.gallery{grid-template-columns:1fr;}.shot img{height:240px;}}
 
   /* linkedin */
   .li-row{display:grid;grid-template-columns:34px 1fr auto;gap:18px;padding:20px 0;border-top:1px solid var(--paper-line);align-items:baseline;text-decoration:none;}
@@ -159,12 +163,6 @@
   .li-row:hover .ttl{color:var(--teal);}
   .li-row:hover .go{text-decoration:underline;}
 
-  @media (max-width:620px){
-    .value-row,.pillar-row,.bench-row,.pipeline li,.li-row{grid-template-columns:1fr;gap:6px;}
-    .header-row{padding:14px 20px;}
-    nav{gap:14px;}
-    .chain-caption span{font-size:0.6rem;}
-  }
 
   /* chat widget */
   #chat-toggle{position:fixed;right:22px;bottom:22px;z-index:40;width:56px;height:56px;border-radius:50%;background:var(--gold);color:var(--ink);border:none;font-size:1.3rem;cursor:pointer;box-shadow:0 6px 18px rgba(0,0,0,.3);display:flex;align-items:center;justify-content:center;}
@@ -187,6 +185,70 @@
   #chat-input{flex:1;background:transparent;border:none;padding:12px 14px;color:var(--text-on-ink);font-family:var(--sans);font-size:0.85rem;outline:none;}
   #chat-input::placeholder{color:var(--text-on-ink-soft);}
   #chat-send{background:none;border:none;color:var(--gold);font-family:var(--mono);font-size:0.78rem;padding:0 16px;cursor:pointer;}
+
+  /* ============ RESPONSIVE ============ */
+  #nav-toggle{display:none;background:none;border:1px solid var(--ink-line);color:var(--text-on-ink);font-family:var(--mono);font-size:0.78rem;padding:8px 14px;min-height:40px;cursor:pointer;}
+  #nav-toggle:hover{border-color:var(--gold);color:var(--gold);}
+  .btn{min-height:44px;display:inline-flex;align-items:center;}
+
+  /* Large monitors: wider container and scaled type */
+  @media (min-width:1200px){
+    :root{--maxw:1120px;}
+    :root{--measure:720px;}
+    .gallery{grid-template-columns:repeat(4,1fr);gap:20px;}
+    .ai-grid{gap:64px;}
+    .hero h1{max-width:16ch;}
+  }
+  @media (min-width:1600px){
+    :root{--maxw:1320px;}
+    html{font-size:112.5%;}
+    :root{--measure:780px;}
+  }
+  @media (min-width:2200px){
+    :root{--maxw:1600px;}
+    html{font-size:125%;}
+  }
+
+  /* Tablets */
+  @media (max-width:900px){
+    .ai-grid{grid-template-columns:1fr;gap:28px;}
+  }
+
+  /* Phones and small tablets */
+  @media (max-width:760px){
+    #nav-toggle{display:inline-flex;align-items:center;}
+    header nav{display:none;position:absolute;top:100%;left:0;right:0;flex-direction:column;gap:0;background:var(--ink);border-bottom:1px solid var(--ink-line);padding:6px var(--gutter) 14px;}
+    header nav.open{display:flex;}
+    header nav a{padding:13px 0;border-top:1px solid var(--ink-line);font-size:0.9rem;}
+    header nav a:first-child{border-top:none;}
+  }
+  @media (max-width:620px){
+    .value-row,.pillar-row,.bench-row,.pipeline li,.li-row{grid-template-columns:1fr;gap:6px;}
+    .li-row .go{margin-top:4px;}
+    .gallery{grid-template-columns:1fr;gap:26px;}
+    .hero h1{max-width:none;}
+    .cta-row .btn{flex:1 1 100%;justify-content:center;}
+    .chain-caption{display:none;}
+    .chain-label{font-size:24px;}
+    .ai-cap{grid-template-columns:1fr;gap:4px;}
+    .project-card{max-width:none;}
+    .footer-row{align-items:flex-start;}
+    .footer-row .btn{width:100%;justify-content:center;}
+    .footer-bottom{flex-direction:column;}
+    footer h2,.block h2{max-width:none;}
+  }
+
+  /* Chat: bottom sheet on phones, respects notches and keyboards */
+  #chat-toggle{right:calc(18px + env(safe-area-inset-right,0px));bottom:calc(18px + env(safe-area-inset-bottom,0px));}
+  #chat-input{font-size:16px;}
+  @media (max-width:520px){
+    #chat-panel{right:0;left:0;bottom:0;width:100%;max-width:100%;height:72vh;height:72dvh;max-height:none;border-left:none;border-right:none;border-bottom:none;padding-bottom:env(safe-area-inset-bottom,0px);}
+    #chat-toggle{width:52px;height:52px;}
+  }
+  @media (min-width:1600px){
+    #chat-panel{width:380px;height:520px;}
+  }
+  @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto;}}
 </style>
 </head>
 <body>
@@ -194,7 +256,8 @@
 <header>
   <div class="header-row">
     <a class="logotype" href="#top">Quinnipiac Blockchain<span class="dot">.</span></a>
-    <nav>
+    <button id="nav-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav id="site-nav">
       <a href="#build">Platform</a>
       <a href="#linkedin">Community</a>
       <a href="#benchmark">Benchmark</a>
@@ -496,6 +559,16 @@
 })();
 </script>
 
+<script>
+(function(){
+  var t=document.getElementById('nav-toggle'),n=document.getElementById('site-nav');
+  if(!t||!n)return;
+  function set(o){n.classList.toggle('open',o);t.setAttribute('aria-expanded',o);t.textContent=o?'Close':'Menu';}
+  t.addEventListener('click',function(){set(!n.classList.contains('open'));});
+  n.addEventListener('click',function(e){if(e.target.tagName==='A')set(false);});
+  window.addEventListener('resize',function(){if(window.innerWidth>760)set(false);});
+})();
+</script>
 </body>
 </html>
 
