@@ -430,8 +430,7 @@
       <div id="news-list" aria-live="polite"><p class="news-empty">Loading the latest headlines…</p></div>
       <p class="news-status" id="news-status"></p>
       <div class="cta-row" style="margin:28px 0 0;">
-        <a class="btn btn-primary" href="https://blockchainqu.blog/" target="_blank" rel="noopener">Read the full newsletter</a>
-        <a class="btn btn-ghost" href="https://www.linkedin.com/company/blockchainqu/posts/?feedView=all" target="_blank" rel="noopener">Follow on LinkedIn</a>
+        <a class="btn btn-primary" href="https://www.linkedin.com/company/blockchainqu/" target="_blank" rel="noopener">Follow on LinkedIn</a>
       </div>
       <p class="news-note">Headlines are selected automatically and are for education only. Nothing here is financial, investment, legal, or tax advice.</p>
     </div>
@@ -505,7 +504,7 @@
         <h2>There's a place for you in this ledger.</h2>
         <p style="color:var(--text-on-ink-soft);max-width:46ch;line-height:1.6;margin:0;">Attend events, publish research, contribute to the podcast, or start a project — join Quinnipiac Blockchain.</p>
       </div>
-      <a class="btn btn-primary" href="https://blockchainqu.blog/" target="_blank" rel="noopener">Get involved</a>
+      <a class="btn btn-primary" href="https://www.linkedin.com/company/blockchainqu/" target="_blank" rel="noopener">Get involved on LinkedIn</a>
     </div>
     <div class="footer-bottom">
       <span>Quinnipiac Blockchain Club</span>
@@ -557,9 +556,9 @@
     {keys:['ai','chatbot','claude','agent'],
      a:"QUBC AI is designed to teach concepts, help you navigate events and resources, match you with research and teams, and coach you from beginner to builder. This version answers from a fixed set of club answers."},
     {keys:['join','get involved','sign up','member','how do i join'],
-     a:"Head to blockchainqu.blog to get involved — attend events, join a project, contribute to the podcast, or just follow along."},
+     a:"Follow and message Quinnipiac Blockchain on LinkedIn to get involved — attend events, join a project, contribute to the podcast, or just follow along. There's a Get involved button at the bottom of this page."},
     {keys:['event','meeting','workshop','speaker','when'],
-     a:"Events, workshops, and guest speakers are announced through the newsletter and the blog at blockchainqu.blog."},
+     a:"Events, workshops, and guest speakers are announced on the club's LinkedIn page and in the newsletter."},
     {keys:['about','what is','mission','club','qubc'],
      a:"Quinnipiac Blockchain is a student club building education, resources, and industry connections around blockchain — for beginners and experienced builders alike."},
     {keys:['linkedin','social','follow','instagram','posts'],
@@ -578,7 +577,7 @@
   function reply(t){
     var l=t.toLowerCase();
     var m=responses.find(function(r){return r.keys.some(function(k){return l.indexOf(k)>-1;});});
-    var a=m?m.a:"I don't have an answer for that yet — try asking about learning paths, research, funding, projects, events, or joining. The blog at blockchainqu.blog has more.";
+    var a=m?m.a:"I don't have an answer for that yet — try asking about learning paths, research, funding, projects, events, or joining. The club's LinkedIn page has more.";
     setTimeout(function(){addMsg(a,'bot');},320);
   }
   function openPanel(){
@@ -612,7 +611,7 @@
   function fmt(iso){var d=new Date(iso);return isNaN(d)?'':d.toLocaleDateString(undefined,{month:'short',day:'numeric'});}
   fetch('news.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error('http');return r.json();}).then(function(data){
     var items=(data.items||[]).filter(function(i){return i&&i.title&&/^https?:\/\//i.test(i.link||'');}).slice(0,8);
-    if(!items.length){note('The first digest is on its way. In the meantime, read the full newsletter on the blog.');return;}
+    if(!items.length){note('The first digest is on its way. Check back soon.');return;}
     list.textContent='';
     items.forEach(function(i){
       var row=document.createElement('div');row.className='news-item';
@@ -626,9 +625,10 @@
       row.appendChild(meta);row.appendChild(body);list.appendChild(row);
     });
     if(data.updated&&status){status.textContent='Updated '+fmt(data.updated)+(data.mode==='ai'?' · picked and summarized with Claude':' · picked by keyword filter');}
-  }).catch(function(){note('Headlines are unavailable right now. Read the full newsletter on the blog.');});
+  }).catch(function(){note('Headlines are unavailable right now. Check back soon.');});
 })();
 </script>
 </body>
 </html>
+
 
