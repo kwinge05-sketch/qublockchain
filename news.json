@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T17:46:21+00:00",
+  "updated": "2026-10-09T17:22:17+00:00",
   "mode": "keywords",
   "items": [
     {
@@ -10,18 +10,25 @@
       "summary": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain."
     },
     {
-      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
-      "link": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-10-07T16:25:38+00:00",
-      "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry."
+      "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+      "link": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+      "source": "CoinDesk",
+      "published": "2026-10-09T04:21:36+00:00",
+      "summary": "The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline."
     },
     {
-      "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
-      "link": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-10-07T16:06:03+00:00",
-      "summary": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient."
+      "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming ‘tokenization supercycle’",
+      "link": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
+      "source": "The Block",
+      "published": "2026-10-09T13:12:57+00:00",
+      "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak."
+    },
+    {
+      "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
+      "link": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
+      "source": "The Block",
+      "published": "2026-10-09T10:40:59+00:00",
+      "summary": "Thailand's SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16."
     },
     {
       "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
@@ -38,13 +45,6 @@
       "summary": "Tokenization offers structural advantages to financial institutions and helps asset managers reach new markets, according to Fidelity’s head of digital asset strategists."
     },
     {
-      "title": "Money20/20 USA 2026: How Bitcoin, Stablecoins and AI Are Reshaping the Future of Finance",
-      "link": "https://bitcoinmagazine.com/press-releases/money20-20-usa-2026-how-bitcoin-stablecoins-and-ai-are-reshaping-the-future-of-finance",
-      "source": "Bitcoin Magazine",
-      "published": "2026-10-08T13:05:59+00:00",
-      "summary": "Bitcoin Magazine Money20/20 USA 2026: How Bitcoin, Stablecoins and AI Are Reshaping the Future of Finance From digital ownership to borderless value, Bitcoin's core innovations are reshaping how the world's top financial"
-    },
-    {
       "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
       "link": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
       "source": "Decrypt",
@@ -52,11 +52,11 @@
       "summary": "The House Financial Services chairman credited the SEC and CFTC for stepping in after the Clarity Act's collapse but said only \"permanent law change\" can secure U.S. leadership."
     },
     {
-      "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
-      "link": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
-      "source": "Decrypt",
-      "published": "2026-10-08T16:44:20+00:00",
-      "summary": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data."
+      "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
+      "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-10-09T10:16:48+00:00",
+      "summary": "France’s Finance Committee backed taxes on stablecoin swaps, as well as unrealized crypto gains when households with more than 800,000 euros move abroad."
     }
   ]
 }
