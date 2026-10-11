@@ -1,14 +1,7 @@
 {
-  "updated": "2026-10-10T16:07:53+00:00",
+  "updated": "2026-10-11T16:34:38+00:00",
   "mode": "keywords",
   "items": [
-    {
-      "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
-      "link": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-      "source": "CoinDesk",
-      "published": "2026-10-09T04:21:36+00:00",
-      "summary": "The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline."
-    },
     {
       "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming ‘tokenization supercycle’",
       "link": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
@@ -22,13 +15,6 @@
       "source": "The Block",
       "published": "2026-10-09T10:40:59+00:00",
       "summary": "Thailand's SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16."
-    },
-    {
-      "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
-      "link": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
-      "source": "Decrypt",
-      "published": "2026-10-07T20:16:04+00:00",
-      "summary": "The House Financial Services chairman credited the SEC and CFTC for stepping in after the Clarity Act's collapse but said only \"permanent law change\" can secure U.S. leadership."
     },
     {
       "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
@@ -57,6 +43,20 @@
       "source": "Cointelegraph",
       "published": "2026-10-09T10:49:24+00:00",
       "summary": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulatory measures are necessary."
+    },
+    {
+      "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
+      "link": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+      "source": "Decrypt",
+      "published": "2026-10-08T16:44:20+00:00",
+      "summary": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data."
+    },
+    {
+      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+      "link": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-10-09T16:22:45+00:00",
+      "summary": "The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction markets cases."
     }
   ]
 }
