@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T16:34:38+00:00",
+  "updated": "2026-10-12T20:09:51+00:00",
   "mode": "keywords",
   "items": [
     {
@@ -10,25 +10,25 @@
       "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak."
     },
     {
-      "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
-      "link": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
-      "source": "The Block",
-      "published": "2026-10-09T10:40:59+00:00",
-      "summary": "Thailand's SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16."
-    },
-    {
-      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-      "link": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-      "source": "CoinDesk",
-      "published": "2026-10-09T21:21:54+00:00",
-      "summary": "The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's oversight."
-    },
-    {
-      "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
-      "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+      "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-10-09T10:16:48+00:00",
-      "summary": "France’s Finance Committee backed taxes on stablecoin swaps, as well as unrealized crypto gains when households with more than 800,000 euros move abroad."
+      "published": "2026-10-12T06:30:21+00:00",
+      "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards."
+    },
+    {
+      "title": "Ark Invest’s Lorenzo Valente: Bitcoin’s 5-Year Forecast – Stablecoin & Gold Impacts",
+      "link": "https://bitcoinmagazine.com/videos/ark-invests-lorenzo-valente-bitcoins-5-year-forecast-stablecoin-gold-impacts",
+      "source": "Bitcoin Magazine",
+      "published": "2026-10-12T15:11:13+00:00",
+      "summary": "Bitcoin Magazine Ark Invest’s Lorenzo Valente: Bitcoin’s 5-Year Forecast – Stablecoin & Gold Impacts ARK Invest holds its 5-year Bitcoin thesis despite a flat year. Lorenzo Valente breaks down its Big Ideas report, digit"
+    },
+    {
+      "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
+      "link": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
+      "source": "The Block",
+      "published": "2026-10-12T04:33:57+00:00",
+      "summary": "Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States."
     },
     {
       "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
@@ -38,25 +38,25 @@
       "summary": "The technical trial showed how AI agents could discover services and make micropayments using HSBC’s tokenized deposits, with real-time settlement and risk checks."
     },
     {
-      "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
-      "link": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
+      "link": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-10-09T10:49:24+00:00",
-      "summary": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulatory measures are necessary."
+      "published": "2026-10-12T18:38:14+00:00",
+      "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash."
     },
     {
-      "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
-      "link": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
-      "source": "Decrypt",
-      "published": "2026-10-08T16:44:20+00:00",
-      "summary": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data."
+      "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
+      "link": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
+      "source": "The Block",
+      "published": "2026-10-12T17:06:25+00:00",
+      "summary": "StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana."
     },
     {
-      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-      "link": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-10-09T16:22:45+00:00",
-      "summary": "The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction markets cases."
+      "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
+      "link": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
+      "source": "The Block",
+      "published": "2026-10-12T10:10:13+00:00",
+      "summary": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments."
     }
   ]
 }
