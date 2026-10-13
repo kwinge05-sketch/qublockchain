@@ -1,41 +1,55 @@
 {
-  "updated": "2026-10-12T20:09:51+00:00",
+  "updated": "2026-10-13T18:00:45+00:00",
   "mode": "keywords",
   "items": [
     {
-      "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming ‘tokenization supercycle’",
-      "link": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
-      "source": "The Block",
-      "published": "2026-10-09T13:12:57+00:00",
-      "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak."
+      "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
+      "link": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+      "source": "Decrypt",
+      "published": "2026-10-12T21:16:03+00:00",
+      "summary": "The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put."
     },
     {
-      "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
-      "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
+      "link": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-10-12T06:30:21+00:00",
-      "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards."
+      "published": "2026-10-13T13:17:17+00:00",
+      "summary": "BIS said that digital cash can achieve “cash-like privacy,” however, the technology isn’t yet production-ready due to risks such as bank data breaches."
     },
     {
-      "title": "Ark Invest’s Lorenzo Valente: Bitcoin’s 5-Year Forecast – Stablecoin & Gold Impacts",
-      "link": "https://bitcoinmagazine.com/videos/ark-invests-lorenzo-valente-bitcoins-5-year-forecast-stablecoin-gold-impacts",
+      "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
+      "link": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-10-13T11:11:27+00:00",
+      "summary": "New .eth registrations would pause for hours during the transition, while existing domain holders could renew their names without migrating."
+    },
+    {
+      "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
+      "link": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-10-13T16:51:25+00:00",
+      "summary": "A recent change in the SEC’s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill."
+    },
+    {
+      "title": "DRW and Marex complete OTC swap referencing tokenized S&P iBoxx Index",
+      "link": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
+      "source": "The Block",
+      "published": "2026-10-13T15:00:29+00:00",
+      "summary": "DRW and Marex completed the first OTC swap referencing a fully tokenized index on Derivnex via the Canton Network, with Kaiko data."
+    },
+    {
+      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
+      "link": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
+      "source": "The Block",
+      "published": "2026-10-13T11:38:19+00:00",
+      "summary": "A UK judge ruled Chinese law applies to victims' claims over 61,000 seized bitcoin, leaving ownership undecided."
+    },
+    {
+      "title": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
+      "link": "https://bitcoinmagazine.com/news/south-korea-bank-offers-bitcoin-loans",
       "source": "Bitcoin Magazine",
-      "published": "2026-10-12T15:11:13+00:00",
-      "summary": "Bitcoin Magazine Ark Invest’s Lorenzo Valente: Bitcoin’s 5-Year Forecast – Stablecoin & Gold Impacts ARK Invest holds its 5-year Bitcoin thesis despite a flat year. Lorenzo Valente breaks down its Big Ideas report, digit"
-    },
-    {
-      "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
-      "link": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
-      "source": "The Block",
-      "published": "2026-10-12T04:33:57+00:00",
-      "summary": "Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States."
-    },
-    {
-      "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
-      "link": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-10-09T17:21:07+00:00",
-      "summary": "The technical trial showed how AI agents could discover services and make micropayments using HSBC’s tokenized deposits, with real-time settlement and risk checks."
+      "published": "2026-10-12T22:06:36+00:00",
+      "summary": "Bitcoin Magazine South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans The South Korean bank has become the first in the country to offer the bitcoin-related service. This post South Korean Lender Jeonbuk Bank t"
     },
     {
       "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
@@ -43,20 +57,6 @@
       "source": "Cointelegraph",
       "published": "2026-10-12T18:38:14+00:00",
       "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash."
-    },
-    {
-      "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
-      "link": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
-      "source": "The Block",
-      "published": "2026-10-12T17:06:25+00:00",
-      "summary": "StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana."
-    },
-    {
-      "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
-      "link": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
-      "source": "The Block",
-      "published": "2026-10-12T10:10:13+00:00",
-      "summary": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments."
     }
   ]
 }
