@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-13T18:00:45+00:00",
+  "updated": "2026-10-14T15:44:09+00:00",
   "mode": "keywords",
   "items": [
+    {
+      "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
+      "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+      "source": "CoinDesk",
+      "published": "2026-10-14T08:48:11+00:00",
+      "summary": "Chainalysis CEO in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels."
+    },
+    {
+      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+      "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+      "source": "CoinDesk",
+      "published": "2026-10-14T14:08:43+00:00",
+      "summary": "Nasdaq-listed Perpetuals.com is the second company to pursue a U.S. tokenized stock marketplace under the SEC's new framework, following a joint venture between OKX and NYSE parent ICE."
+    },
     {
       "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
       "link": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
@@ -24,6 +38,13 @@
       "summary": "New .eth registrations would pause for hours during the transition, while existing domain holders could renew their names without migrating."
     },
     {
+      "title": "Qivalis wins Dutch e-money license for euro stablecoin",
+      "link": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-10-14T12:53:41+00:00",
+      "summary": "Qivalis said the Electronic Money Institution authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements."
+    },
+    {
       "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
       "link": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -31,32 +52,11 @@
       "summary": "A recent change in the SEC’s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill."
     },
     {
-      "title": "DRW and Marex complete OTC swap referencing tokenized S&P iBoxx Index",
-      "link": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
-      "source": "The Block",
-      "published": "2026-10-13T15:00:29+00:00",
-      "summary": "DRW and Marex completed the first OTC swap referencing a fully tokenized index on Derivnex via the Canton Network, with Kaiko data."
-    },
-    {
-      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
-      "link": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
-      "source": "The Block",
-      "published": "2026-10-13T11:38:19+00:00",
-      "summary": "A UK judge ruled Chinese law applies to victims' claims over 61,000 seized bitcoin, leaving ownership undecided."
-    },
-    {
-      "title": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
-      "link": "https://bitcoinmagazine.com/news/south-korea-bank-offers-bitcoin-loans",
-      "source": "Bitcoin Magazine",
-      "published": "2026-10-12T22:06:36+00:00",
-      "summary": "Bitcoin Magazine South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans The South Korean bank has become the first in the country to offer the bitcoin-related service. This post South Korean Lender Jeonbuk Bank t"
-    },
-    {
-      "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
-      "link": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-10-12T18:38:14+00:00",
-      "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash."
+      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+      "source": "CoinDesk",
+      "published": "2026-10-14T01:00:00+00:00",
+      "summary": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies."
     }
   ]
 }
