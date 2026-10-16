@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-15T15:31:19+00:00",
+  "updated": "2026-10-16T15:17:26+00:00",
   "mode": "keywords",
   "items": [
+    {
+      "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
+      "link": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-10-16T10:27:18+00:00",
+      "summary": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors."
+    },
     {
       "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
       "link": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -10,11 +17,18 @@
       "summary": "Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarter’s total losses, according to Hacken."
     },
     {
-      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-      "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
-      "source": "CoinDesk",
-      "published": "2026-10-14T14:08:43+00:00",
-      "summary": "Nasdaq-listed Perpetuals.com is the second company to pursue a U.S. tokenized stock marketplace under the SEC's new framework, following a joint venture between OKX and NYSE parent ICE."
+      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+      "link": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-10-15T17:14:45+00:00",
+      "summary": "The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIUS stablecoin bill."
+    },
+    {
+      "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+      "link": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+      "source": "Decrypt",
+      "published": "2026-10-15T20:31:04+00:00",
+      "summary": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia."
     },
     {
       "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
@@ -31,32 +45,18 @@
       "summary": "The SEC and the CFTC have issued a raft of pro-crypto rules recently. But will the rules hold up in court, and can they be easily rolled back by the “anti-crypto army”?"
     },
     {
-      "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
-      "link": "https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-10-14T16:26:31+00:00",
-      "summary": "The bank identified four distinct stablecoin markets, with USDC leading payments and AI transactions as competition intensifies over reserve yields."
+      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
+      "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
+      "source": "CoinDesk",
+      "published": "2026-10-16T10:54:35+00:00",
+      "summary": "The stablecoin issuer’s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Africa and Latin America as banks and payment firms."
     },
     {
-      "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-      "link": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+      "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
+      "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
       "source": "Decrypt",
-      "published": "2026-10-14T17:46:05+00:00",
-      "summary": "The British bank won Dubai regulatory approval to let affluent clients buy BTC and ETH straight from their bank accounts, with custody and settlement kept in-house."
-    },
-    {
-      "title": "Standard Chartered pushes $2 trillion stablecoin market forecast to 2030 as supply growth stalls",
-      "link": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
-      "source": "The Block",
-      "published": "2026-10-14T15:47:18+00:00",
-      "summary": "Standard Chartered Bank has pushed its $2 trillion stablecoin market forecast to 2030 from 2028 because supply growth has stalled this year."
-    },
-    {
-      "title": "Qivalis wins Dutch e-money license for euro stablecoin",
-      "link": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-10-14T12:53:41+00:00",
-      "summary": "Qivalis said the Electronic Money Institution authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements."
+      "published": "2026-10-15T16:28:50+00:00",
+      "summary": "The first major integration since Mastercard’s $1.8 billion BVNK acquisition lets banks, fintechs and enterprises hold, convert, and spend fiat and stablecoins through a single API, with agentic commerce support planned."
     }
   ]
 }
