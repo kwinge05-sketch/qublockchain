@@ -270,8 +270,6 @@
   nav a{transition:color .2s ease;}
   nav a.active{color:var(--gold);}
 
-  html.js .reveal{opacity:0;transform:translateY(28px);transition:opacity 1.2s cubic-bezier(.22,.6,.2,1) var(--d,0ms),transform 1.3s cubic-bezier(.22,.6,.2,1) var(--d,0ms);}
-  html.js .reveal.in{opacity:1;transform:none;}
 
   @keyframes rise{from{opacity:0;transform:translateY(26px);}to{opacity:1;transform:none;}}
   html.js .hero h1,html.js .hero .lede,html.js .hero .cta-row{opacity:0;animation:rise 1.25s cubic-bezier(.22,.6,.2,1) forwards;}
@@ -296,7 +294,6 @@
   #chat-nudge .x{position:absolute;top:6px;right:8px;background:none;border:none;font-size:.95rem;cursor:pointer;color:var(--text-on-paper-soft);padding:4px;}
 
   @media (prefers-reduced-motion:reduce){
-    html.js .reveal{opacity:1;transform:none;transition:none;}
     html.js .hero h1,html.js .hero .lede,html.js .hero .cta-row{opacity:1;animation:none;}
     #chat-toggle::after{animation:none;}
     #chat-toggle,#chat-nudge{transition:none;}
@@ -567,8 +564,8 @@
 <section class="block on-ink" id="newsletter">
   <div class="wrap">
     <div class="block-meta"><span class="num">000005</span><span>Newsletter</span></div>
-    <h2>What mattered in blockchain lately.</h2>
-    <p class="sub">The club newsletter, plus a daily digest pulled from public news feeds. Every headline links to the original source.</p>
+    <h2>The five biggest blockchain stories this week.</h2>
+    <p class="sub">The week's top five stories from public news feeds, chosen for what matters most to students. Every headline links to the original source.</p>
     <div class="news-wrap">
       <div id="news-list" aria-live="polite"><p class="news-empty">Loading the latest headlines…</p></div>
       <p class="news-status" id="news-status"></p>
@@ -695,7 +692,7 @@
 
   var responses=[
     {keys:['news','headline','latest','newsletter'],
-     a:"The Newsletter section shows recent blockchain headlines, refreshed automatically from public news feeds, with links to the original sources."},
+     a:"The Newsletter section shows the five most important blockchain stories of the week, refreshed automatically from public news feeds, with links to the original sources."},
     {keys:['start','new','beginner','101','learn','path'],
      a:"Start with a guided learning path — blockchain fundamentals first, then a hands-on wallet demo. From there you can join a project team or propose research."},
     {keys:['research','publish','paper','study'],
@@ -762,8 +759,8 @@
   function note(msg){list.textContent='';var p=document.createElement('p');p.className='news-empty';p.textContent=msg;list.appendChild(p);}
   function fmt(iso){var d=new Date(iso);return isNaN(d)?'':d.toLocaleDateString(undefined,{month:'short',day:'numeric'});}
   fetch('news.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error('http');return r.json();}).then(function(data){
-    var items=(data.items||[]).filter(function(i){return i&&i.title&&/^https?:\/\//i.test(i.link||'');}).slice(0,8);
-    if(!items.length){note('The first digest is on its way. Check back soon.');return;}
+    var items=(data.items||[]).filter(function(i){return i&&i.title&&/^https?:\/\//i.test(i.link||'');}).slice(0,5);
+    if(!items.length){note('This week’s top five are on the way. Check back soon.');return;}
     list.textContent='';
     items.forEach(function(i){
       var row=document.createElement('div');row.className='news-item';
@@ -776,7 +773,6 @@
       if(i.summary){var p=document.createElement('p');p.textContent=i.summary;body.appendChild(p);}
       row.appendChild(meta);row.appendChild(body);list.appendChild(row);
     });
-    if(window.qubcReveal)window.qubcReveal(list.querySelectorAll('.news-item'));
     if(data.updated&&status){status.textContent='Updated '+fmt(data.updated)+(data.mode==='ai'?' · picked and summarized with Claude':' · picked by keyword filter');}
   }).catch(function(){note('Headlines are unavailable right now. Check back soon.');});
 })();
@@ -784,8 +780,7 @@
 <script>
 (function(){
   var reduce=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
-  var SEL=['.block-meta','.block h2','.block .sub','.block p:not(.news-empty)','.pillar-row','.bench-row','.pipeline li','.project-card',
-           '.ai-demo','.ai-cap','.shot','.li-row','.ledger-list li','.value-row','.news-wrap .cta-row','.footer-row','.footer-bottom','.disclaimer'].join(',');
+  var SEL=['.block-meta','.project-card','.ai-demo','.shot'].join(',');
 
   var io=(!reduce&&'IntersectionObserver' in window)?new IntersectionObserver(function(entries){
     var vis=entries.filter(function(e){return e.isIntersecting;}).sort(function(a,b){
@@ -795,8 +790,8 @@
 
   function reveal(nodes){
     Array.prototype.forEach.call(nodes,function(el){
-      if(el.classList.contains('reveal'))return;
-      el.classList.add('reveal');
+      if(el.classList.contains('trig'))return;
+      el.classList.add('trig');
       if(io)io.observe(el);else el.classList.add('in');
     });
   }
@@ -809,7 +804,7 @@
     if(header){header.classList.toggle('scrolled',window.scrollY>8);var d=document.documentElement.scrollHeight-window.innerHeight;header.style.setProperty('--p',d>0?Math.min(1,window.scrollY/d).toFixed(4):0);}
     /* the last items on the page can never scroll far enough in, so reveal them at the bottom */
     if(window.innerHeight+window.scrollY>=document.documentElement.scrollHeight-4){
-      Array.prototype.forEach.call(document.querySelectorAll('.reveal:not(.in)'),function(el,i){
+      Array.prototype.forEach.call(document.querySelectorAll('.trig:not(.in)'),function(el,i){
         var r=el.getBoundingClientRect();
         if(r.top<window.innerHeight){el.style.setProperty('--d',Math.min(i,5)*130+'ms');el.classList.add('in');if(io)io.unobserve(el);}
       });
