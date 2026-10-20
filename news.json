@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-19T17:21:40+00:00",
+  "updated": "2026-10-20T15:34:42+00:00",
   "mode": "keywords",
   "items": [
+    {
+      "title": "Swiss regulator FINMA approves country’s first spot bitcoin ETF for retail investors",
+      "link": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
+      "source": "The Block",
+      "published": "2026-10-20T12:15:05+00:00",
+      "summary": "FINMA approved Switzerland's first retail bitcoin ETF, following earlier crypto ETP listings and a fund restricted to qualified investors."
+    },
+    {
+      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
+      "link": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-10-20T13:04:28+00:00",
+      "summary": "The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications."
+    },
+    {
+      "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
+      "link": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-10-19T19:03:23+00:00",
+      "summary": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement."
+    },
     {
       "title": "Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
       "link": "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658",
@@ -17,46 +38,25 @@
       "summary": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle’s USDC most sensitive."
     },
     {
-      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-      "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-10-16T15:52:28+00:00",
-      "summary": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins."
-    },
-    {
-      "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
-      "link": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
-      "source": "Decrypt",
-      "published": "2026-10-15T20:31:04+00:00",
-      "summary": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia."
-    },
-    {
-      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
-      "link": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-10-19T08:58:45+00:00",
-      "summary": "JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions."
-    },
-    {
-      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-      "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+      "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+      "link": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
       "source": "CoinDesk",
-      "published": "2026-10-18T23:28:06+00:00",
-      "summary": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework."
+      "published": "2026-10-20T11:25:00+00:00",
+      "summary": "Amendment I-3898 removes tax deferral for MiCA-compliant stablecoins starting January 2027."
     },
     {
-      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-      "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
-      "source": "CoinDesk",
-      "published": "2026-10-18T13:00:00+00:00",
-      "summary": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews."
-    },
-    {
-      "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
-      "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Market participants weigh in on SEC’s proposed crypto regulations",
+      "link": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-10-16T17:21:45+00:00",
-      "summary": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires."
+      "published": "2026-10-19T19:54:38+00:00",
+      "summary": "The financial agency is scheduled to close public comments on its ‘Regulation Crypto Assets’ proposed in August."
+    },
+    {
+      "title": "Injective partners with BDACS to bring Korean won stablecoin to RWA ecosystem",
+      "link": "https://www.theblock.co/news/markets/2026-10-20-injective-partners-bdacs-418883",
+      "source": "The Block",
+      "published": "2026-10-20T14:00:00+00:00",
+      "summary": "The move comes amid South Korea's regulatory developments to establish a framework for Korean won-denominated stablecoins."
     }
   ]
 }
