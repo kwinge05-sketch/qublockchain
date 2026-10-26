@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-25T14:53:19+00:00",
+  "updated": "2026-10-26T17:09:19+00:00",
   "mode": "keywords",
   "items": [
     {
-      "title": "Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head",
-      "link": "https://bitcoinmagazine.com/news/bank-of-korea-crypto-bill-and-tax",
-      "source": "Bitcoin Magazine",
-      "published": "2026-10-23T14:01:41+00:00",
-      "summary": "Bitcoin Magazine Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head The Bank of Korea told lawmakers it will draft a forex law amendment this year to regulate stablecoins a"
+      "title": "OCC calls on community banks to enter the stablecoin payments market",
+      "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+      "source": "CoinDesk",
+      "published": "2026-10-26T15:45:51+00:00",
+      "summary": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach."
     },
     {
       "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
@@ -17,11 +17,11 @@
       "summary": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks."
     },
     {
-      "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
-      "link": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
-      "source": "Decrypt",
-      "published": "2026-10-22T12:01:03+00:00",
-      "summary": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance—a yield-and-protection combination ordinary stablecoins lack."
+      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+      "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+      "source": "CoinDesk",
+      "published": "2026-10-26T14:23:41+00:00",
+      "summary": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days."
     },
     {
       "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
@@ -31,11 +31,11 @@
       "summary": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement."
     },
     {
-      "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
-      "link": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028",
-      "source": "The Block",
-      "published": "2026-10-23T09:52:44+00:00",
-      "summary": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto."
+      "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+      "link": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+      "source": "Decrypt",
+      "published": "2026-10-24T13:01:02+00:00",
+      "summary": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money."
     }
   ]
 }
