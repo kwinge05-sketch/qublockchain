@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-26T17:09:19+00:00",
+  "updated": "2026-10-27T16:14:58+00:00",
   "mode": "keywords",
   "items": [
+    {
+      "title": "US OCC calls on community banks to become payment stablecoin issuers",
+      "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-10-26T21:38:30+00:00",
+      "summary": "The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January"
+    },
+    {
+      "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
+      "link": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
+      "source": "The Block",
+      "published": "2026-10-27T01:00:00+00:00",
+      "summary": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC."
+    },
     {
       "title": "OCC calls on community banks to enter the stablecoin payments market",
       "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
@@ -22,20 +36,6 @@
       "source": "CoinDesk",
       "published": "2026-10-26T14:23:41+00:00",
       "summary": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days."
-    },
-    {
-      "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
-      "link": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
-      "source": "The Block",
-      "published": "2026-10-23T12:55:26+00:00",
-      "summary": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement."
-    },
-    {
-      "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
-      "link": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
-      "source": "Decrypt",
-      "published": "2026-10-24T13:01:02+00:00",
-      "summary": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money."
     }
   ]
 }
