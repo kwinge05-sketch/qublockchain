@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-27T16:14:58+00:00",
+  "updated": "2026-10-28T17:01:52+00:00",
   "mode": "keywords",
   "items": [
     {
-      "title": "US OCC calls on community banks to become payment stablecoin issuers",
-      "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-10-26T21:38:30+00:00",
-      "summary": "The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January"
-    },
-    {
-      "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
-      "link": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
-      "source": "The Block",
-      "published": "2026-10-27T01:00:00+00:00",
-      "summary": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC."
-    },
-    {
-      "title": "OCC calls on community banks to enter the stablecoin payments market",
-      "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-      "source": "CoinDesk",
-      "published": "2026-10-26T15:45:51+00:00",
-      "summary": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach."
-    },
-    {
-      "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
-      "link": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+      "link": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
       "source": "Decrypt",
-      "published": "2026-10-23T18:54:55+00:00",
-      "summary": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks."
+      "published": "2026-10-27T10:16:46+00:00",
+      "summary": "The federally supervised bank will manage RLUSD's reserves and offer custody, as banking groups fight crypto charters in court."
     },
     {
-      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-      "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+      "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+      "link": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
+      "source": "Decrypt",
+      "published": "2026-10-26T22:16:03+00:00",
+      "summary": "Ottawa opened a 60-day consultation on draft rules requiring one-to-one reserves and fast redemption from stablecoin issuers, while keeping the ban on paying holders interest."
+    },
+    {
+      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+      "link": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
       "source": "CoinDesk",
-      "published": "2026-10-26T14:23:41+00:00",
-      "summary": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days."
+      "published": "2026-10-28T10:41:51+00:00",
+      "summary": "Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money market funds at 52%."
+    },
+    {
+      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+      "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-10-27T21:28:22+00:00",
+      "summary": "VanEck’s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range of 1% to 5%, gaining exposure through a spot Bitcoin ETP."
+    },
+    {
+      "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
+      "link": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
+      "source": "The Block",
+      "published": "2026-10-27T18:51:46+00:00",
+      "summary": "The CFTC is escalating its legal fight with states, suing Utah after the state filed a lawsuit against prediction market platform Kalshi."
     }
   ]
 }
