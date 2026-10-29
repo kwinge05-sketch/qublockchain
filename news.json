@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-28T17:01:52+00:00",
+  "updated": "2026-10-29T17:19:57+00:00",
   "mode": "keywords",
   "items": [
     {
-      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
-      "link": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
-      "source": "Decrypt",
-      "published": "2026-10-27T10:16:46+00:00",
-      "summary": "The federally supervised bank will manage RLUSD's reserves and offer custody, as banking groups fight crypto charters in court."
-    },
-    {
-      "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
-      "link": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
-      "source": "Decrypt",
-      "published": "2026-10-26T22:16:03+00:00",
-      "summary": "Ottawa opened a 60-day consultation on draft rules requiring one-to-one reserves and fast redemption from stablecoin issuers, while keeping the ban on paying holders interest."
-    },
-    {
-      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
-      "link": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
+      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
       "source": "CoinDesk",
-      "published": "2026-10-28T10:41:51+00:00",
-      "summary": "Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money market funds at 52%."
+      "published": "2026-10-29T16:35:43+00:00",
+      "summary": "The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's banking, wallet and payment infrastructure."
     },
     {
-      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
-      "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bank of England opens consultation on tokenized collateral for clearing",
+      "link": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-10-27T21:28:22+00:00",
-      "summary": "VanEck’s new Wealth Builder ETF targets a 2% Bitcoin allocation, with a permitted range of 1% to 5%, gaining exposure through a spot Bitcoin ETP."
+      "published": "2026-10-29T14:27:46+00:00",
+      "summary": "Central counterparties would need to show tokenized collateral meets liquidity and risk tests under proposed Bank of England guidance."
     },
     {
-      "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
-      "link": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
-      "source": "The Block",
-      "published": "2026-10-27T18:51:46+00:00",
-      "summary": "The CFTC is escalating its legal fight with states, suing Utah after the state filed a lawsuit against prediction market platform Kalshi."
+      "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+      "link": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
+      "source": "CoinDesk",
+      "published": "2026-10-29T14:15:46+00:00",
+      "summary": "SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow."
+    },
+    {
+      "title": "Senator Bill Hagerty: Expanding the U.S. Strategic Bitcoin Reserve, & the Future of Dollar Hegemony",
+      "link": "https://bitcoinmagazine.com/videos/senator-bill-hagerty-expanding-the-u-s-strategic-bitcoin-reserve-the-future-of-dollar-hegemony",
+      "source": "Bitcoin Magazine",
+      "published": "2026-10-29T12:46:00+00:00",
+      "summary": "▶ Bitcoin Magazine Senator Bill Hagerty: Expanding the U.S. Strategic Bitcoin Reserve, & the Future of Dollar Hegemony Sen. Bill Hagerty explains why CBDCs threaten freedom, how regulatory ambiguity enabled SEC overreach"
+    },
+    {
+      "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
+      "link": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
+      "source": "Decrypt",
+      "published": "2026-10-28T12:16:30+00:00",
+      "summary": "The ratings agency cited RLUSD's Treasury-heavy reserves, but noted that holders have no direct ownership interest in them for now."
     }
   ]
 }
