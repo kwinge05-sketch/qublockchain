@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T16:57:44+00:00",
+  "updated": "2026-10-31T15:57:59+00:00",
   "mode": "keywords",
   "items": [
     {
@@ -17,11 +17,18 @@
       "summary": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday."
     },
     {
-      "title": "Bank of England opens consultation on tokenized collateral for clearing",
-      "link": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-10-29T14:27:46+00:00",
-      "summary": "Central counterparties would need to show tokenized collateral meets liquidity and risk tests under proposed Bank of England guidance."
+      "title": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
+      "link": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+      "source": "Decrypt",
+      "published": "2026-10-30T21:16:04+00:00",
+      "summary": "Michael Selig said the record $6.4 billion theft shows why offshore exchanges should register with the CFTC and adopt U.S.-grade cybersecurity standards."
+    },
+    {
+      "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
+      "link": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
+      "source": "The Block",
+      "published": "2026-10-30T21:20:23+00:00",
+      "summary": "Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went."
     },
     {
       "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
@@ -29,13 +36,6 @@
       "source": "Decrypt",
       "published": "2026-10-29T22:57:48+00:00",
       "summary": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges."
-    },
-    {
-      "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
-      "link": "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees",
-      "source": "Decrypt",
-      "published": "2026-10-29T18:46:02+00:00",
-      "summary": "A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system."
     }
   ]
 }
