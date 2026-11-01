@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-31T15:57:59+00:00",
+  "updated": "2026-11-01T17:01:46+00:00",
   "mode": "keywords",
   "items": [
     {
-      "title": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower",
-      "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
-      "source": "CoinDesk",
-      "published": "2026-10-30T04:00:43+00:00",
-      "summary": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base."
+      "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+      "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+      "source": "Decrypt",
+      "published": "2026-11-01T16:01:02+00:00",
+      "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows."
     },
     {
       "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
@@ -31,11 +31,11 @@
       "summary": "Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went."
     },
     {
-      "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
-      "link": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
-      "source": "Decrypt",
-      "published": "2026-10-29T22:57:48+00:00",
-      "summary": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges."
+      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+      "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+      "source": "CoinDesk",
+      "published": "2026-11-01T10:35:42+00:00",
+      "summary": "Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase."
     }
   ]
 }
