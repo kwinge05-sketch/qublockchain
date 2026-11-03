@@ -1,14 +1,7 @@
 {
-  "updated": "2026-11-02T20:39:02+00:00",
+  "updated": "2026-11-03T18:15:24+00:00",
   "mode": "keywords",
   "items": [
-    {
-      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
-      "link": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-02T10:14:55+00:00",
-      "summary": "The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users."
-    },
     {
       "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
       "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
@@ -17,25 +10,32 @@
       "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows."
     },
     {
-      "title": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
-      "link": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
-      "source": "Decrypt",
-      "published": "2026-10-30T21:16:04+00:00",
-      "summary": "Michael Selig said the record $6.4 billion theft shows why offshore exchanges should register with the CFTC and adopt U.S.-grade cybersecurity standards."
-    },
-    {
-      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
-      "link": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
-      "source": "The Block",
-      "published": "2026-11-02T20:19:49+00:00",
-      "summary": "Brazil's largest crypto exchange Mercado Bitcoin confirmed earlier Monday a security incident and paused withdrawals."
-    },
-    {
-      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
-      "link": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+      "link": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-02T19:05:35+00:00",
-      "summary": "Brazil’s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe."
+      "published": "2026-11-03T16:44:06+00:00",
+      "summary": "Hackers exploited compromised employee computers and stolen credentials to breach Binance’s wallet infrastructure, according to the exchange’s investigation."
+    },
+    {
+      "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
+      "link": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
+      "source": "The Block",
+      "published": "2026-11-03T15:34:34+00:00",
+      "summary": "Binance's incident report said hackers used a fake job interview and an internal AI tool to gain access to systems involved in the theft."
+    },
+    {
+      "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
+      "link": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
+      "source": "Decrypt",
+      "published": "2026-11-03T14:01:02+00:00",
+      "summary": "The “Tierra” upgrade resolves a critical bug from the prior version, adds formal verification, and an AI-powered testing harness."
+    },
+    {
+      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+      "link": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+      "source": "CoinDesk",
+      "published": "2026-11-03T16:49:56+00:00",
+      "summary": "Lee Jae Myung said he wants a government-wide agency to tackle cyberattacks as AI raises security concerns across financial institutions and critical infrastructure."
     }
   ]
 }
