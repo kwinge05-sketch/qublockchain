@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-03T18:15:24+00:00",
+  "updated": "2026-11-04T18:29:40+00:00",
   "mode": "keywords",
   "items": [
     {
-      "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-      "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-      "source": "Decrypt",
-      "published": "2026-11-01T16:01:02+00:00",
-      "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows."
+      "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+      "link": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
+      "source": "The Block",
+      "published": "2026-11-03T20:43:38+00:00",
+      "summary": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance."
     },
     {
       "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
@@ -31,11 +31,11 @@
       "summary": "The “Tierra” upgrade resolves a critical bug from the prior version, adds formal verification, and an AI-powered testing harness."
     },
     {
-      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
-      "link": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
-      "source": "CoinDesk",
-      "published": "2026-11-03T16:49:56+00:00",
-      "summary": "Lee Jae Myung said he wants a government-wide agency to tackle cyberattacks as AI raises security concerns across financial institutions and critical infrastructure."
+      "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+      "link": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+      "source": "Decrypt",
+      "published": "2026-11-04T18:16:02+00:00",
+      "summary": "SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network."
     }
   ]
 }
