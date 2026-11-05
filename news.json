@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-04T18:29:40+00:00",
+  "updated": "2026-11-05T18:34:03+00:00",
   "mode": "keywords",
   "items": [
     {
-      "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
-      "link": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
-      "source": "The Block",
-      "published": "2026-11-03T20:43:38+00:00",
-      "summary": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance."
+      "title": "Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack",
+      "link": "https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack",
+      "source": "Bitcoin Magazine",
+      "published": "2026-11-05T15:25:00+00:00",
+      "summary": "Bitcoin Magazine Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack Federal Reserve and OCC supervisors contacted U.S. banks this week to check for vulnerabilities after the Binance hack. This post Fed and OCC Q"
     },
     {
-      "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
-      "link": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+      "source": "CoinDesk",
+      "published": "2026-11-04T22:55:00+00:00",
+      "summary": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and CFTC face tougher oversight and questions over how long their rules will last, experts said."
+    },
+    {
+      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
+      "link": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-03T16:44:06+00:00",
-      "summary": "Hackers exploited compromised employee computers and stolen credentials to breach Binance’s wallet infrastructure, according to the exchange’s investigation."
+      "published": "2026-11-04T22:31:58+00:00",
+      "summary": "The crypto exchange’s founder warned of security staffing shortages amid restructuring as analysts flagged suspicious transfers potentially linked to the Mercado Bitcoin hack."
     },
     {
-      "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
-      "link": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
-      "source": "The Block",
-      "published": "2026-11-03T15:34:34+00:00",
-      "summary": "Binance's incident report said hackers used a fake job interview and an internal AI tool to gain access to systems involved in the theft."
+      "title": "Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading",
+      "link": "https://bitcoinmagazine.com/news/ukraine-central-bank-refuses-crypto-bill",
+      "source": "Bitcoin Magazine",
+      "published": "2026-11-05T15:45:00+00:00",
+      "summary": "Bitcoin Magazine Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading Ukraine's National Bank says draft law 10225-d on virtual assets lacks safeguards on foreign tokens and platform licensing. Thi"
     },
     {
-      "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
-      "link": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
+      "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
+      "link": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
       "source": "Decrypt",
-      "published": "2026-11-03T14:01:02+00:00",
-      "summary": "The “Tierra” upgrade resolves a critical bug from the prior version, adds formal verification, and an AI-powered testing harness."
-    },
-    {
-      "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
-      "link": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
-      "source": "Decrypt",
-      "published": "2026-11-04T18:16:02+00:00",
-      "summary": "SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network."
+      "published": "2026-11-04T19:57:18+00:00",
+      "summary": "The OCC's first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents—the same risk that recently prompted major banks to restrict customer-account access."
     }
   ]
 }
