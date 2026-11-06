@@ -1,34 +1,34 @@
 {
-  "updated": "2026-11-05T18:34:03+00:00",
+  "updated": "2026-11-06T17:49:29+00:00",
   "mode": "keywords",
   "items": [
     {
-      "title": "Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack",
-      "link": "https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack",
-      "source": "Bitcoin Magazine",
-      "published": "2026-11-05T15:25:00+00:00",
-      "summary": "Bitcoin Magazine Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack Federal Reserve and OCC supervisors contacted U.S. banks this week to check for vulnerabilities after the Binance hack. This post Fed and OCC Q"
-    },
-    {
-      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
-      "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
-      "source": "CoinDesk",
-      "published": "2026-11-04T22:55:00+00:00",
-      "summary": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and CFTC face tougher oversight and questions over how long their rules will last, experts said."
-    },
-    {
-      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
-      "link": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+      "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-04T22:31:58+00:00",
-      "summary": "The crypto exchange’s founder warned of security staffing shortages amid restructuring as analysts flagged suspicious transfers potentially linked to the Mercado Bitcoin hack."
+      "published": "2026-11-05T18:32:45+00:00",
+      "summary": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks."
     },
     {
-      "title": "Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading",
-      "link": "https://bitcoinmagazine.com/news/ukraine-central-bank-refuses-crypto-bill",
-      "source": "Bitcoin Magazine",
-      "published": "2026-11-05T15:45:00+00:00",
-      "summary": "Bitcoin Magazine Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading Ukraine's National Bank says draft law 10225-d on virtual assets lacks safeguards on foreign tokens and platform licensing. Thi"
+      "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
+      "link": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
+      "source": "The Block",
+      "published": "2026-11-06T11:43:44+00:00",
+      "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses."
+    },
+    {
+      "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+      "link": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-05T22:18:42+00:00",
+      "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins."
+    },
+    {
+      "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433",
+      "source": "The Block",
+      "published": "2026-11-05T19:00:00+00:00",
+      "summary": "Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals."
     },
     {
       "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
