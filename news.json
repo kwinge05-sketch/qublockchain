@@ -1,14 +1,7 @@
 {
-  "updated": "2026-11-06T17:49:29+00:00",
+  "updated": "2026-11-07T16:45:46+00:00",
   "mode": "keywords",
   "items": [
-    {
-      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-      "link": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-05T18:32:45+00:00",
-      "summary": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks."
-    },
     {
       "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
       "link": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
@@ -24,6 +17,13 @@
       "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins."
     },
     {
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-06T13:57:14+00:00",
+      "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services."
+    },
+    {
       "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
       "link": "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433",
       "source": "The Block",
@@ -31,11 +31,11 @@
       "summary": "Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals."
     },
     {
-      "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
-      "link": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
+      "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
+      "link": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
       "source": "Decrypt",
-      "published": "2026-11-04T19:57:18+00:00",
-      "summary": "The OCC's first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents—the same risk that recently prompted major banks to restrict customer-account access."
+      "published": "2026-11-05T19:16:03+00:00",
+      "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale."
     }
   ]
 }
