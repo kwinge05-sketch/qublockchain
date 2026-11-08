@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T16:45:46+00:00",
+  "updated": "2026-11-08T16:55:58+00:00",
   "mode": "keywords",
   "items": [
     {
@@ -10,13 +10,6 @@
       "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses."
     },
     {
-      "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
-      "link": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-05T22:18:42+00:00",
-      "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins."
-    },
-    {
       "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
       "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -24,11 +17,11 @@
       "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services."
     },
     {
-      "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433",
-      "source": "The Block",
-      "published": "2026-11-05T19:00:00+00:00",
-      "summary": "Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals."
+      "title": "Binance hackers had 8-week intrusion window before $6.3B exploit: SEAL",
+      "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-06T11:26:30+00:00",
+      "summary": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack."
     },
     {
       "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
@@ -36,6 +29,13 @@
       "source": "Decrypt",
       "published": "2026-11-05T19:16:03+00:00",
       "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale."
+    },
+    {
+      "title": "Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says",
+      "link": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin",
+      "source": "Bitcoin Magazine",
+      "published": "2026-11-06T14:50:00+00:00",
+      "summary": "Bitcoin Magazine Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says About 42 million stolen XRP, worth roughly $50 million, has been swapped mostly into bitcoin via THORChain, Ellipti"
     }
   ]
 }
