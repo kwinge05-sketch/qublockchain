@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-08T16:55:58+00:00",
+  "updated": "2026-11-09T21:19:19+00:00",
   "mode": "keywords",
   "items": [
     {
-      "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
-      "link": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
-      "source": "The Block",
-      "published": "2026-11-06T11:43:44+00:00",
-      "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses."
-    },
-    {
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-      "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-06T13:57:14+00:00",
-      "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services."
-    },
-    {
-      "title": "Binance hackers had 8-week intrusion window before $6.3B exploit: SEAL",
-      "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-06T11:26:30+00:00",
-      "summary": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack."
-    },
-    {
-      "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
-      "link": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
-      "source": "Decrypt",
-      "published": "2026-11-05T19:16:03+00:00",
-      "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale."
-    },
-    {
-      "title": "Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says",
-      "link": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin",
+      "title": "TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress",
+      "link": "https://bitcoinmagazine.com/news/td-cowen-stablecoin-yield-ban-10-odds",
       "source": "Bitcoin Magazine",
-      "published": "2026-11-06T14:50:00+00:00",
-      "summary": "Bitcoin Magazine Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says About 42 million stolen XRP, worth roughly $50 million, has been swapped mostly into bitcoin via THORChain, Ellipti"
+      "published": "2026-11-09T17:06:36+00:00",
+      "summary": "Bitcoin Magazine TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress TD Cowen's Jaret Seiberg puts only a 10% chance on a congressional ban on platform stablecoin yield over the next "
+    },
+    {
+      "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
+      "link": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-09T13:30:00+00:00",
+      "summary": "The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins."
+    },
+    {
+      "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
+      "link": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
+      "source": "Decrypt",
+      "published": "2026-11-09T17:46:02+00:00",
+      "summary": "Operating under the SEC’s “Innovation Exemption,” the firm plans to list tokenized shares of Exodus, Forward Industries, and Galaxy Digital in early 2027, with the same voting and dividend rights as real stock."
+    },
+    {
+      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+      "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+      "source": "CoinDesk",
+      "published": "2026-11-09T12:41:35+00:00",
+      "summary": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading."
+    },
+    {
+      "title": "Formation notifies SEC to operate first tokenized securities venue on Solana",
+      "link": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060",
+      "source": "The Block",
+      "published": "2026-11-09T12:30:00+00:00",
+      "summary": "Launch is expected in early 2027, with tokenized shares of Exodus Movement, Forward Industries, and Galaxy Digital among initial offerings."
     }
   ]
 }
