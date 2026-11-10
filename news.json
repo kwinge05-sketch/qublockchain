@@ -1,20 +1,27 @@
 {
-  "updated": "2026-11-09T21:19:19+00:00",
+  "updated": "2026-11-10T18:30:01+00:00",
   "mode": "keywords",
   "items": [
-    {
-      "title": "TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress",
-      "link": "https://bitcoinmagazine.com/news/td-cowen-stablecoin-yield-ban-10-odds",
-      "source": "Bitcoin Magazine",
-      "published": "2026-11-09T17:06:36+00:00",
-      "summary": "Bitcoin Magazine TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress TD Cowen's Jaret Seiberg puts only a 10% chance on a congressional ban on platform stablecoin yield over the next "
-    },
     {
       "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
       "link": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "published": "2026-11-09T13:30:00+00:00",
       "summary": "The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins."
+    },
+    {
+      "title": "NEAR AI says SGLang vulnerability exposed user account details in security breach",
+      "link": "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002",
+      "source": "The Block",
+      "published": "2026-11-10T10:17:13+00:00",
+      "summary": "NEAR AI explained that it found no indication that stored Private Chat conversations or uploaded files were accessed."
+    },
+    {
+      "title": "Will stablecoins survive once the banks catch up?",
+      "link": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+      "source": "CoinDesk",
+      "published": "2026-11-10T14:00:00+00:00",
+      "summary": "As crypto firms and banks converge, it is fair to ask what lasting advantage stablecoins have, argues Alessandro Hatami, founder of Pacemakers and former COO of Digital Banking at Lloyds Banking Group."
     },
     {
       "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
@@ -24,18 +31,11 @@
       "summary": "Operating under the SEC’s “Innovation Exemption,” the firm plans to list tokenized shares of Exodus, Forward Industries, and Galaxy Digital in early 2027, with the same voting and dividend rights as real stock."
     },
     {
-      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-      "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+      "link": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
       "source": "CoinDesk",
-      "published": "2026-11-09T12:41:35+00:00",
-      "summary": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading."
-    },
-    {
-      "title": "Formation notifies SEC to operate first tokenized securities venue on Solana",
-      "link": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060",
-      "source": "The Block",
-      "published": "2026-11-09T12:30:00+00:00",
-      "summary": "Launch is expected in early 2027, with tokenized shares of Exodus Movement, Forward Industries, and Galaxy Digital among initial offerings."
+      "published": "2026-11-10T17:32:22+00:00",
+      "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S."
     }
   ]
 }
