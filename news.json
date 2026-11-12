@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-11T18:25:33+00:00",
+  "updated": "2026-11-12T18:43:56+00:00",
   "mode": "keywords",
   "items": [
+    {
+      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
+      "link": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+      "source": "Decrypt",
+      "published": "2026-11-11T21:46:03+00:00",
+      "summary": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand."
+    },
+    {
+      "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
+      "link": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
+      "source": "Decrypt",
+      "published": "2026-11-12T14:01:02+00:00",
+      "summary": "SoFiUSD, the first stablecoin from a U.S. national bank, is now live on Polygon Open Money Stack alongside Ethereum and Solana."
+    },
     {
       "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
       "link": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -17,25 +31,11 @@
       "summary": "Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline."
     },
     {
-      "title": "Will stablecoins survive once the banks catch up?",
-      "link": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
-      "source": "CoinDesk",
-      "published": "2026-11-10T14:00:00+00:00",
-      "summary": "As crypto firms and banks converge, it is fair to ask what lasting advantage stablecoins have, argues Alessandro Hatami, founder of Pacemakers and former COO of Digital Banking at Lloyds Banking Group."
-    },
-    {
-      "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
-      "link": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
-      "source": "Decrypt",
-      "published": "2026-11-09T17:46:02+00:00",
-      "summary": "Operating under the SEC’s “Innovation Exemption,” the firm plans to list tokenized shares of Exodus, Forward Industries, and Galaxy Digital in early 2027, with the same voting and dividend rights as real stock."
-    },
-    {
-      "title": "Deutsche Bank Switches On Bitcoin Custody for Paying Clients",
-      "link": "https://bitcoinmagazine.com/news/deutsche-bank-bitcoin-custody-live",
-      "source": "Bitcoin Magazine",
-      "published": "2026-11-11T14:48:10+00:00",
-      "summary": "Bitcoin Magazine Deutsche Bank Switches On Bitcoin Custody for Paying Clients Germany's largest lender now holds bitcoin, ether and three stablecoins for institutional and corporate clients in Europe, but it has not name"
+      "title": "BitGo expands institutional stablecoin minting and redemption platform with USDC",
+      "link": "https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525",
+      "source": "The Block",
+      "published": "2026-11-12T12:35:02+00:00",
+      "summary": "BitGo's institutional clients can now mint and redeem USDC through Go Accounts, with orders handled through its Circle Mint account."
     }
   ]
 }
