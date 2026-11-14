@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T18:24:51+00:00",
+  "updated": "2026-11-14T16:52:39+00:00",
   "mode": "keywords",
   "items": [
     {
@@ -24,18 +24,18 @@
       "summary": "Bitcoin Magazine President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed The White House sent four SEC and CFTC nominees to the Senate on Thursday, including form"
     },
     {
-      "title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
-      "link": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-12T13:21:56+00:00",
-      "summary": "The Series B valued Griffin at more than $100 million and will help fund stablecoin reserve services and onchain cross-border payments."
-    },
-    {
       "title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
       "link": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
       "source": "The Block",
       "published": "2026-11-13T12:27:41+00:00",
       "summary": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype."
+    },
+    {
+      "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
+      "link": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
+      "source": "The Block",
+      "published": "2026-11-13T09:59:16+00:00",
+      "summary": "JPMorgan reported 224,545 more Strategy shares in the third quarter as its BlackRock bitcoin ETF holdings climbed to 11.4 million shares."
     }
   ]
 }
