@@ -1,13 +1,11 @@
-{
-  "updated": "",
-  "events": [],
-  "_example": {
-    "title": "Intro to Smart Contracts Workshop",
+"events": [
+  {
+    "title": "Intro to Blockchain Workshop",
     "date": "2026-12-04",
     "dateText": "Thu, Dec 4 · 5:15 PM",
     "location": "SB345 AI Lab",
-    "summary": "A hands-on beginner session. No experience needed.",
-    "link": "https://quinnipiac.campusgroups.com/",
+    "summary": "A beginner-friendly session. No experience needed.",
+    "link": "https://quinnipiac.campusgroups.com/feeds?type=club&type_id=35573&tab=about",
     "linkLabel": "RSVP"
   }
-}
+],
