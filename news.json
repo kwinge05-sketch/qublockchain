@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-15T17:36:23+00:00",
+  "updated": "2026-11-16T20:49:56+00:00",
   "mode": "keywords",
   "items": [
     {
-      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
-      "link": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
-      "source": "Decrypt",
-      "published": "2026-11-11T21:46:03+00:00",
-      "summary": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand."
+      "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+      "link": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+      "source": "CoinDesk",
+      "published": "2026-11-16T15:54:11+00:00",
+      "summary": "A central bank official reportedly said legitimate funds become tainted when moved into stablecoins, comparing the market to the informal \"dólar-cabo\" system."
     },
     {
-      "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
-      "link": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
+      "title": "Trump’s First Democratic Picks for SEC and CFTC Could Reshape Crypto’s Regulators",
+      "link": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto",
       "source": "Decrypt",
-      "published": "2026-11-12T14:01:02+00:00",
-      "summary": "SoFiUSD, the first stablecoin from a U.S. national bank, is now live on Polygon Open Money Stack alongside Ethereum and Solana."
+      "published": "2026-11-13T17:56:03+00:00",
+      "summary": "The bipartisan slate—two Republicans and two Democrats, Trump’s first Democratic picks for either agency—would refill commissions that have driven crypto policy since the Clarity Act’s collapse."
     },
     {
-      "title": "President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed",
-      "link": "https://bitcoinmagazine.com/news/trump-sec-cftc-nominees-bipartisan",
+      "title": "Banks are banning AI agents over security... and competition concerns",
+      "link": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-16T13:30:00+00:00",
+      "summary": "AI agents are set to automate everyday banking tasks — but banks aren’t ready to give up control of the customer relationship just yet."
+    },
+    {
+      "title": "HKMA, Swift explore tokenized deposits for cross-border bank payments",
+      "link": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-16T12:54:51+00:00",
+      "summary": "HKMA and Swift will explore linking Project Ensemble with Swift’s ledger for cross-border payments using tokenized deposits in multiple currencies."
+    },
+    {
+      "title": "Harvard Holds 3.04 Million Bitcoin ETF Shares Steady",
+      "link": "https://bitcoinmagazine.com/news/harvard-holds-ibit-stake-steady-304-mil",
       "source": "Bitcoin Magazine",
-      "published": "2026-11-13T14:45:00+00:00",
-      "summary": "Bitcoin Magazine President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed The White House sent four SEC and CFTC nominees to the Senate on Thursday, including form"
-    },
-    {
-      "title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
-      "link": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
-      "source": "The Block",
-      "published": "2026-11-13T12:27:41+00:00",
-      "summary": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype."
-    },
-    {
-      "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
-      "link": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
-      "source": "The Block",
-      "published": "2026-11-13T09:59:16+00:00",
-      "summary": "JPMorgan reported 224,545 more Strategy shares in the third quarter as its BlackRock bitcoin ETF holdings climbed to 11.4 million shares."
+      "published": "2026-11-16T16:00:10+00:00",
+      "summary": "Bitcoin Magazine Harvard Holds 3.04 Million Bitcoin ETF Shares Steady Harvard Management Company's latest 13F shows it still holds 3,044,612 shares of BlackRock's iShares Bitcoin Trust, unchanged since March, a stake now"
     }
   ]
 }
