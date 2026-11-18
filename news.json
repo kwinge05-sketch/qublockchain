@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T19:39:22+00:00",
+  "updated": "2026-11-18T19:15:45+00:00",
   "mode": "keywords",
   "items": [
     {
@@ -17,25 +17,25 @@
       "summary": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens."
     },
     {
-      "title": "Google says hackers use AI agents to find and exploit software flaws",
-      "link": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-17T10:05:59+00:00",
-      "summary": "Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches."
+      "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+      "link": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
+      "source": "CoinDesk",
+      "published": "2026-11-17T17:00:05+00:00",
+      "summary": "Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI."
     },
     {
-      "title": "Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin",
-      "link": "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568",
-      "source": "The Block",
-      "published": "2026-11-17T15:53:25+00:00",
-      "summary": "Anchorage clients can pledge bitcoin and stablecoins held at its federally chartered bank as margin on Kalshi Prime's CFTC-regulated venue."
+      "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
+      "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
+      "source": "Decrypt",
+      "published": "2026-11-16T21:16:03+00:00",
+      "summary": "Luxor said hackers redirected hashrate from just over a dozen client accounts through its Commander tool, and its CEO blamed a “sophisticated AI-enabled vector.”"
     },
     {
-      "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
-      "link": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+      "title": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
+      "link": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
       "source": "The Block",
-      "published": "2026-11-16T23:27:15+00:00",
-      "summary": "The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain."
+      "published": "2026-11-18T04:21:02+00:00",
+      "summary": "The initiative plans to initially focus on an intermediated and interoperable stablecoin-based payment model."
     }
   ]
 }
