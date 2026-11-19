@@ -8,6 +8,15 @@
       "summary": "A beginner-friendly session. No experience needed.",
       "link": "https://quinnipiac.campusgroups.com/feeds?type=club&type_id=35573&tab=about",
       "linkLabel": "RSVP"
+    },
+        {
+      "title": "Your second event title",
+      "date": "2026-12-11",
+      "dateText": "Fri, Dec 11 · 5:15 PM",
+      "location": "Where it is",
+      "summary": "One sentence about it.",
+      "link": "https://quinnipiac.campusgroups.com/feeds?type=club&type_id=35573&tab=about",
+      "linkLabel": "RSVP"
     }
   ]
 }
