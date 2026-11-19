@@ -11,3 +11,16 @@
     }
   ]
 }
+{
+  "events": [
+    {
+      "title": "Intro to Blockchain Workshop",
+      "date": "2026-12-04",
+      "dateText": "Fri, Dec 4 · 5:15 PM",
+      "location": "SB345 AI Lab",
+      "summary": "A beginner-friendly session. No experience needed.",
+      "link": "https://quinnipiac.campusgroups.com/feeds?type=club&type_id=35573&tab=about",
+      "linkLabel": "RSVP"
+    }
+  ]
+}
