@@ -1,28 +1,7 @@
 {
-  "updated": "2026-11-19T19:23:19+00:00",
+  "updated": "2026-11-20T18:59:10+00:00",
   "mode": "keywords",
   "items": [
-    {
-      "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
-      "link": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
-      "source": "CoinDesk",
-      "published": "2026-11-19T10:39:36+00:00",
-      "summary": "The central bank aims to expand this digital settlement network and test wider collateral use in 2027."
-    },
-    {
-      "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
-      "link": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
-      "source": "CoinDesk",
-      "published": "2026-11-19T11:30:00+00:00",
-      "summary": "Blockchain investigation traced $518 million in illicit-linked activity, including the 2025 Bybit hack, through a key reserve backing DAI and USDS tokens, putting Sky's institutional finance ambitions and open design on "
-    },
-    {
-      "title": "Singapore’s MAS issues $77 million in tokenized bills settled via CBDC",
-      "link": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
-      "source": "The Block",
-      "published": "2026-11-19T08:25:35+00:00",
-      "summary": "The central bank said the bills were issued natively on its Singapore Dollar Test Network and settled in wholesale CBDC."
-    },
     {
       "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
       "link": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31,11 +10,32 @@
       "summary": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials."
     },
     {
-      "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
-      "link": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "MoonPay applies for national trust bank charter to expand stablecoin services",
+      "link": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198",
+      "source": "The Block",
+      "published": "2026-11-20T10:39:09+00:00",
+      "summary": "MoonPay has applied for a national trust bank charter to expand its custody and stablecoin services under federal oversight."
+    },
+    {
+      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "link": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-19T10:32:05+00:00",
-      "summary": "A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable."
+      "published": "2026-11-19T21:01:42+00:00",
+      "summary": "MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight."
+    },
+    {
+      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+      "link": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+      "source": "CoinDesk",
+      "published": "2026-11-19T18:15:56+00:00",
+      "summary": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators."
+    },
+    {
+      "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
+      "link": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
+      "source": "Decrypt",
+      "published": "2026-11-19T22:36:02+00:00",
+      "summary": "Citibank’s updated terms put customers on the hook for outside AI agents, including leaked logins."
     }
   ]
 }
