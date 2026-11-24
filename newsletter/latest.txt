@@ -1,41 +1,46 @@
-Subject: Quinnipiac Blockchain: this week in blockchain (Nov 17)
+Subject: Quinnipiac Blockchain: this week in blockchain (Nov 24)
 
-QUINNIPIAC BLOCKCHAIN - Week of November 17, 2026
+QUINNIPIAC BLOCKCHAIN - Week of November 24, 2026
 
 Here are the five biggest blockchain stories this week, plus what's coming up at the club.
 
 TOP STORIES THIS WEEK
 
-Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed
-CoinDesk
-Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on earlier work involving digital central bank money.
-https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed
-
-US senators seek SEC answers on tokenized stock money laundering risks
+Base makes quantum security a 2027 priority as regulators warn of risks
 Cointelegraph
-Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.
-https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed.
+https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
-Google says hackers use AI agents to find and exploit software flaws
+Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack
+Decrypt
+Citibank’s updated terms put customers on the hook for outside AI agents, including leaked logins.
+https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack
+
+North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers
+Decrypt
+Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who “refuses to block funds such as these."
+https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers
+
+US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack
 Cointelegraph
-Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches.
-https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers.
+https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
-Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin
+Grayscale’s new 2x leveraged Zcash ETF takes 13% opening day tumble
 The Block
-Anchorage clients can pledge bitcoin and stablecoins held at its federally chartered bank as margin on Kalshi Prime's CFTC-regulated venue.
-https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568
-
-CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals
-The Block
-The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain.
-https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591
+Grayscale’s ZECX debuted less than three months after its spot Zcash ETF began trading on NYSE Arca.
+https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407
 
 UPCOMING EVENTS
 
 Intro to Blockchain Workshop
 Fri, Dec 4 · 5:15 PM | SB345 AI Lab
 A beginner-friendly session. No experience needed.
+https://quinnipiac.campusgroups.com/feeds?type=club&type_id=35573&tab=about
+
+Your second event title
+Fri, Dec 11 · 5:15 PM | Where it is
+One sentence about it.
 https://quinnipiac.campusgroups.com/feeds?type=club&type_id=35573&tab=about
 
 Join on CampusGroups: https://quinnipiac.campusgroups.com/feeds?type=club&type_id=35573&tab=about
