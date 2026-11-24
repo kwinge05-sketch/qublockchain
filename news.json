@@ -1,41 +1,41 @@
 {
-  "updated": "2026-11-23T22:28:22+00:00",
+  "updated": "2026-11-24T21:00:22+00:00",
   "mode": "keywords",
   "items": [
     {
-      "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
-      "link": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
+      "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
+      "source": "CoinDesk",
+      "published": "2026-11-24T10:29:14+00:00",
+      "summary": "Fintech firms could lead stablecoin ventures, but banks would need to own more than half of any issuer."
+    },
+    {
+      "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
+      "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-23T19:16:46+00:00",
-      "summary": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed."
+      "published": "2026-11-24T18:07:22+00:00",
+      "summary": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors."
     },
     {
-      "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
-      "link": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-      "source": "Decrypt",
-      "published": "2026-11-19T22:36:02+00:00",
-      "summary": "Citibank’s updated terms put customers on the hook for outside AI agents, including leaked logins."
-    },
-    {
-      "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
-      "link": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
-      "source": "Decrypt",
-      "published": "2026-11-23T20:36:02+00:00",
-      "summary": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who “refuses to block funds such as these.\""
-    },
-    {
-      "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
-      "link": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+      "link": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-23T21:04:03+00:00",
-      "summary": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers."
+      "published": "2026-11-24T12:04:16+00:00",
+      "summary": "The draft bill would also reopen domestic initial coin offerings after a ban dating to 2017 and require issuers to disclose risks before soliciting buyers."
     },
     {
-      "title": "Grayscale’s new 2x leveraged Zcash ETF takes 13% opening day tumble",
-      "link": "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407",
+      "title": "Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts",
+      "link": "https://bitcoinmagazine.com/news/coldcard-postmortem-seed-flaw",
+      "source": "Bitcoin Magazine",
+      "published": "2026-11-24T16:20:00+00:00",
+      "summary": "Bitcoin Magazine Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts Coinkite published its full Coldcard postmortem, saying a five-year firmware flaw weakened wallet seeds and that about 242 cu"
+    },
+    {
+      "title": "Ethereum Foundation doubles protocol security team, calls AI a ‘more urgent risk’ than quantum",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497",
       "source": "The Block",
-      "published": "2026-11-23T22:15:12+00:00",
-      "summary": "Grayscale’s ZECX debuted less than three months after its spot Zcash ETF began trading on NYSE Arca."
+      "published": "2026-11-24T11:53:31+00:00",
+      "summary": "The Ethereum Foundation is expanding its security resources as advances in AI raise new concerns about cryptography and software security."
     }
   ]
 }
