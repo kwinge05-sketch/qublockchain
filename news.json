@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T20:23:26+00:00",
+  "updated": "2026-11-26T19:59:57+00:00",
   "mode": "keywords",
   "items": [
     {
@@ -17,13 +17,6 @@
       "summary": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets."
     },
     {
-      "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
-      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
-      "source": "The Block",
-      "published": "2026-11-25T05:15:00+00:00",
-      "summary": "In today's newsletter, bitcoin, ether gain recognition under CFTC financial requirements; Ethereum Foundation doubles security team as AI risks grow; and more."
-    },
-    {
       "title": "Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses",
       "link": "https://bitcoinmagazine.com/news/bithumb-hack-exposed-passports-wallet-addresses",
       "source": "Bitcoin Magazine",
@@ -31,11 +24,18 @@
       "summary": "Bitcoin Magazine Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses Bithumb said a follow-up review found its October breach exposed more people and data, including passports and wallet addre"
     },
     {
-      "title": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
-      "link": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
-      "source": "The Block",
-      "published": "2026-11-25T10:23:10+00:00",
-      "summary": "The entity will pursue initiatives in stablecoin-based payments, financial and real-world asset tokenization, and onchain asset management."
+      "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+      "link": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
+      "source": "Decrypt",
+      "published": "2026-11-26T11:50:23+00:00",
+      "summary": "The FCA plans to require DeFi platforms to be authorized and to keep regulated exchanges from routing UK retail trades to them."
+    },
+    {
+      "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
+      "link": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-26T05:53:08+00:00",
+      "summary": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto."
     }
   ]
 }
