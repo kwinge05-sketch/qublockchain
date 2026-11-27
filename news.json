@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-26T19:59:57+00:00",
+  "updated": "2026-11-27T19:49:49+00:00",
   "mode": "keywords",
   "items": [
+    {
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "link": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+      "source": "CoinDesk",
+      "published": "2026-11-27T11:22:42+00:00",
+      "summary": "Pablo Hernández de Cos, chosen to succeed Christine Lagarde, favors blockchain-based banking and has warned against private digital currencies and banks holding bitcoin."
+    },
     {
       "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
       "link": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
@@ -10,32 +17,25 @@
       "summary": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover."
     },
     {
-      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
-      "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+      "link": "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
-      "published": "2026-11-25T11:49:54+00:00",
-      "summary": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets."
+      "published": "2026-11-27T13:44:00+00:00",
+      "summary": "Binance is hiring for equity capital markets roles, including an analyst to develop tokenized equity products and assess prospective issuers."
     },
     {
-      "title": "Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses",
-      "link": "https://bitcoinmagazine.com/news/bithumb-hack-exposed-passports-wallet-addresses",
-      "source": "Bitcoin Magazine",
-      "published": "2026-11-25T18:15:00+00:00",
-      "summary": "Bitcoin Magazine Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses Bithumb said a follow-up review found its October breach exposed more people and data, including passports and wallet addre"
+      "title": "Bank of Japan official says stablecoins need reserve rules to preserve ‘singleness of money’",
+      "link": "https://www.theblock.co/news/regulation/2026-11-27-bank-of-japan-official-says-stablecoins-need-reserve-rules-to-preserve-singleness-of-money-447059",
+      "source": "The Block",
+      "published": "2026-11-27T10:45:02+00:00",
+      "summary": "Japan’s central bank warned that stablecoins and tokenized deposits need safeguards to prevent fragmentation across the financial system."
     },
     {
-      "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
-      "link": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
-      "source": "Decrypt",
-      "published": "2026-11-26T11:50:23+00:00",
-      "summary": "The FCA plans to require DeFi platforms to be authorized and to keep regulated exchanges from routing UK retail trades to them."
-    },
-    {
-      "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
-      "link": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-26T05:53:08+00:00",
-      "summary": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto."
+      "title": "Injective asks SEC to allow order books for tokenized stock trading",
+      "link": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+      "source": "CoinDesk",
+      "published": "2026-11-27T11:07:17+00:00",
+      "summary": "The regulator's rules favor one type of blockchain trading system, leaving platforms built on Injective out, the developer said. It wants the SEC to open stock trading to order-book systems."
     }
   ]
 }
